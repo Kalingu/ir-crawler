@@ -1,0 +1,444 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="en-US">
+<head>
+  <meta charset="utf-8" />
+  <!-- v26574 -->
+
+
+  <title>Contact Us &ndash; Barnes &amp; Noble</title>
+
+  
+
+  <meta name="description" content="Customer Service is here to help!Order StatusCheck your order status instantly by clicking here.Manage Your Membership   To update your..." /><meta property="og:image" content="https://help.barnesandnoble.com/hc/theming_assets/01K173H00R1VMYGRTZX4YH4AMK" />
+<meta property="og:type" content="website" />
+<meta property="og:site_name" content="Barnes &amp; Noble" />
+<meta property="og:title" content="Contact Us" />
+<meta property="og:description" content="Customer Service is here to help!Order StatusCheck your order status instantly by clicking here.Manage Your Membership
+  To update your Membership Auto Renewal selection, please
+  click here.
+ Need..." />
+<meta property="og:url" content="https://help.barnesandnoble.com/hc/en-us/articles/5202053403675-Contact-Us" />
+<link rel="canonical" href="https://help.barnesandnoble.com/hc/en-us/articles/5202053403675-Contact-Us">
+<link rel="alternate" hreflang="en-us" href="https://help.barnesandnoble.com/hc/en-us/articles/5202053403675-Contact-Us">
+<link rel="alternate" hreflang="x-default" href="https://help.barnesandnoble.com/hc/en-us/articles/5202053403675-Contact-Us">
+
+  <link rel="stylesheet" href="//static.zdassets.com/hc/assets/application-b05bef4ffc3f78e3055ca9b0d57d81c3.css" media="all" id="stylesheet" />
+  <link rel="stylesheet" type="text/css" href="/hc/theming_assets/11905843/4414020466331/style.css?digest=42538433322779">
+
+  <link rel="icon" type="image/x-icon" href="/hc/theming_assets/01K173H0ECSVN5R69JZ0MPWRKR">
+
+    
+    
+
+  <meta content="width=device-width, initial-scale=1.0" name="viewport" />
+<script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous">
+</script>
+
+
+
+  <!-- Always load Ada -->
+  <script
+    id="__ada"
+    data-handle="barnesandnoble"
+    src="https://static.ada.support/embed2.js">
+  </script>
+
+
+
+
+
+
+  
+</head>
+<body class="">
+  
+  
+  
+
+  <html>
+
+<header>
+
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato">
+ 
+<!-- NEW Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-53XPHFJ');</script>
+<!-- End NEW Google Tag Manager -->
+  
+  
+ 
+<script>
+
+  
+  function getQueryParamValue(name){
+  var results = new RegExp('[\?&]' + name + '=([^&#]*)').exec(window.location.href);
+  if (results==null) {
+     return null;
+  }
+  return decodeURI(results[1]) || 0;
+}
+ $(function() {
+  // For membership form hide fields
+//var ticketForm = location.search.split('ticket_form_id=')[1];
+ var ticketForm = getQueryParamValue('ticket_form_id');
+
+  $('#chat_with_us').hide();
+
+  if(ticketForm == 5047060651803) {
+  	$('#form_message').hide('');
+    $('#request_subject').val('Membership opt-out request');                                                                             // autofill subject
+    $('#request_description').val('Customer has submitted a membership opt-out request');  // autofill description
+    $('.form-field.request_subject').hide();                                                                                            
+    // Hide subject
+    $('.form-field.request_description').hide();                                                                                       // Hide description
+    $('.form-field label:contains("Attachments")').hide();                                                                               // Hide attachments
+    $('#upload-dropzone').hide();
+    $('div.suggestion-list').hide();                                                                                               //hide suggested articles
+   	$(".request_ticket_form_id").hide(); //hide dropdown
+    $('#803formHeaderText').show();  // ##################### NEW CHANGE MEMBERSHIP 2/9/2023
+    $('#3131formHeaderText').hide();  // ##################### NEW CHANGE MEMBERSHIP 2/9/2023
+  } else if (ticketForm == 4414014383131) {
+  	$('div.suggestion-list').hide(); 
+    $('#chat_with_us').hide();
+   	$(".request_ticket_form_id").hide(); //hide dropdown
+    $('#803formHeaderText').hide();  // ##################### NEW CHANGE MEMBERSHIP 2/9/2023
+    $('#3131formHeaderText').show();  // ##################### NEW CHANGE MEMBERSHIP 2/9/2023
+  } 
+});
+
+</script>
+  
+  
+  
+<script>
+  const matches1 = /\/app\/answers\/detail\/a_id\/([^/]+)(\/*)/.exec(window.location.pathname);
+  if (matches1 && matches1.length > 1) {
+    fetch('/api/v2/help_center/en-us/articles.json?label_names=' + matches1[1]).then(response => response.json()).then(data => {
+      if (data.articles && data.articles.length > 0 && data.articles[0].html_url) {
+        window.location.replace(data.articles[0].html_url);
+      } else {
+        return fetch('https://help-press.barnesandnoble.com/api/v2/help_center/en-us/articles.json?label_names=' + matches1[1]);
+      }
+    }).then(response => response.json()).then(data => {
+      window.location.replace(data.articles[0].html_url);
+    });
+  }
+
+  const matches2 = /\/app\/bnpress\/detail\/a_id\/([^/]+)(\/*)/.exec(window.location.pathname);
+  if (matches2 && matches2.length > 1) {
+    fetch('https://help-press.barnesandnoble.com/api/v2/help_center/en-us/articles.json?label_names=' + matches2[1]).then(response => response.json()).then(data => {
+      if (data.articles && data.articles.length > 0 && data.articles[0].html_url) {
+        window.location.replace(data.articles[0].html_url);
+      } else {
+        return fetch('/api/v2/help_center/en-us/articles.json?label_names=' + matches2[1]);
+      }
+    }).then(response => response.json()).then(data => {
+      window.location.replace(data.articles[0].html_url);
+    });
+  }
+
+  const matches3 = /\/app\/bnpress\/ask_bnpress\/(.*)\/([^/]+)(\/*)/.exec(window.location.pathname);
+  if (matches3 && matches3.length > 2) {
+    window.location.replace('https://help-press.barnesandnoble.com/hc/en-us/requests/new?ticket_form_id=5311112596507&tf_5033671016731=barnes_noble_press_webform_topic&tf_subject=BN%20Press');
+  }
+
+  if (window.location.pathname === '/app/chat/chat_launch/request_source/7' || window.location.pathname === '/app/ask') {
+    window.location.replace('/hc/en-us/articles/5202053403675-Contact-Us');
+  }
+
+  if (window.location.pathname === '/app/membership/email-opt-out') {
+    window.location.replace('/hc/en-us/requests/new?ticket_form_id=5047060651803');
+  }
+  
+  if (window.location.pathname === '/app/nook_support/list') {
+    window.location.replace('/hc/en-us/categories/4520922548379-B-N-NOOK-Support');
+  }
+  
+//app redirect for store pick up
+    if (window.location.pathname === '/app/store_pickup/app') {
+    window.location.replace('/hc/en-us/articles/8975588573467/');
+  }
+
+
+  
+  
+  
+</script>
+ 
+<script src="https://unpkg.com/react@16/umd/react.production.min.js" crossorigin></script>
+<script src="https://unpkg.com/react-dom@16/umd/react-dom.production.min.js" crossorigin></script>
+<script src="https://js.js-bn.com/static/redesign/release/js/commerce-header-footer.js"></script>
+<script src="https://js.js-bn.com//static/js/vendor/jquery-1.8.3.min.js"></script>
+<script>
+BN_EXTERNAL_DOMAIN='//www.barnesandnoble.com';
+BN_EXTERNAL_DOMAIN_PREFIXED='https://www.barnesandnoble.com';
+</script>
+  
+
+  
+<script src="https://js.js-bn.com//static/release/js/bnexternal.js"></script>
+<script src="https://js.js-bn.com//static/release/js/modal.modals-external.js"></script>
+<link rel="stylesheet" data-href="https://fonts.googleapis.com/css?family=Lato:300,300i,400,400i,700,700i,900,900i"/>
+<link rel="stylesheet" href="https://js.js-bn.com//static/release/css/bnmicrosite.css"/>
+</header>
+
+<body>
+  
+<!-- NEW Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-53XPHFJ"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- NEW End Google Tag Manager (noscript) -->
+
+  
+  
+<div class="container-fluid">
+<div id="header" ></div>
+  <script>
+  $(function() {
+//Show Banner for agent, manager and admins
+if (HelpCenter.user.role=="agent"){
+$(".agent").show();
+}
+
+if (HelpCenter.user.role=="manager"){
+$(".manager").show();
+}
+
+if (HelpCenter.user.role=="admin"){
+$(".admin").show();
+}
+  });
+  </script>
+  
+
+ <div class="agent" style="background: #EDE9D6; color: black; font-weight: bold !important; padding: 10px 0px; text-align: center;">
+   <strong>You are viewing KB as an Agent. Click <a href="https://help.barnesandnoble.com/hc/en-us/articles/5350282739995-Barnes-Noble-Agents-Newsletter">Here</a> to read the Agent Newsletter.</strong>
+</div>
+
+ <div class="manager" style="background: #EDE9D6; color: black; font-weight: bold !important; padding: 10px 0px; text-align: center;">
+   <strong>You are viewing KB as an Agent. Click <a href="https://help.barnesandnoble.com/hc/en-us/articles/5350282739995-Barnes-Noble-Agents-Newsletter">Here</a> to read the Agent Newsletter.</strong>
+</div>
+
+ <div class="admin" style="background: #EDE9D6; color: black; font-weight: bold !important; padding: 10px 0px; text-align: center;">
+   <strong>You are viewing KB as an Agent. Click <a href="https://help.barnesandnoble.com/hc/en-us/articles/5350282739995-Barnes-Noble-Agents-Newsletter">Here</a> to read the Agent Newsletter.</strong>
+</div>
+
+  
+  
+  
+  
+  
+
+
+ 
+
+  <main role="main">
+     
+
+<div class="container-divider"></div>
+<div class="container">
+ <!-- START BREADCRUMB and SEARCH -->
+<div class="container" >
+ 
+  
+    <div class="search-container">
+    <svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" focusable="false" viewBox="0 0 12 12" class="search-icon">
+      <circle cx="4.5" cy="4.5" r="4" fill="none" stroke="currentColor"/>
+      <path stroke="currentColor" stroke-linecap="round" d="M11 11L7.5 7.5"/>
+    </svg>
+    <form role="search" class="search search-full search-box" data-search="" data-instant="true" autocomplete="off" action="/hc/en-us/search" accept-charset="UTF-8" method="get"><input type="hidden" name="utf8" value="&#x2713;" autocomplete="off" /><input type="search" name="query" id="query" placeholder="Search Help Center" autocomplete="off" aria-label="Search Help Center" /></form> 
+  </div>
+  
+  
+  <div>
+<nav class="sub-nav"> <ol class="breadcrumbs">
+  
+    <li title="Barnes &amp; Noble">
+      
+        <a href="/hc/en-us">Barnes &amp; Noble</a>
+      
+    </li>
+  
+    <li title="Account">
+      
+        <a href="/hc/en-us/categories/4520561919387-Account">Account</a>
+      
+    </li>
+  
+    <li title="Account Management">
+      
+        <a href="/hc/en-us/sections/5146379179035-Account-Management">Account Management</a>
+      
+    </li>
+  
+</ol>
+
+ 
+   
+
+</nav>
+    
+    
+    
+  </div>
+</div>
+<!-- END BREADCRUMB and SEARCH --> 
+
+  <div class="article-container" id="article-container">
+ 
+
+    <article id="main-content"  >
+      <header class="article-header" >
+        <h1 title="Contact Us" class="article-title">
+          Contact Us
+          
+        </h1>
+        
+        	<!-- Start  Updated at - 1/16/2024  -->
+          <div class="admin" style="color: #069;">Last Updated: <time datetime="2025-10-24T15:32:23Z" title="2025-10-24T15:32:23Z" data-format="L" data-datetime="calendar">October 24, 2025 15:32</time></div>
+					<div class="agent" style="color: #069;">Last Updated: <time datetime="2025-10-24T15:32:23Z" title="2025-10-24T15:32:23Z" data-format="L" data-datetime="calendar">October 24, 2025 15:32</time></div>
+  				<div class="manager" style="color: #069;">Last Updated: <time datetime="2025-10-24T15:32:23Z" title="2025-10-24T15:32:23Z" data-format="L" data-datetime="calendar">October 24, 2025 15:32</time></div>
+					<!-- End  Updated at - 1/16/2024  -->
+        
+        
+        
+
+ 
+      </header>
+
+      <section class="article-info">
+        <div class="article-content">
+          <div class="article-body"><h2 id="h_01HENH8EY3025T7YS6JEW4778T"><span style="color: #000000;" class="wysiwyg-font-size-x-large">Customer Service is here to help!</span></h2><h2 id="h_01K485G5B2DHTRY4E7K07VK03E"><span style="color: #4D4D4D;" class="wysiwyg-font-size-large"><strong>Order Status</strong></span></h2><p><span style="color: #4D4D4D;" class="wysiwyg-font-size-large">Check your order status instantly by </span><a style="color: #06c; font-size: 16px !important;" href="https://www.barnesandnoble.com/account/includes/view-orders.jsp"><span style="color: #096ECC;" class="wysiwyg-font-size-large"><strong>clicking here</strong></span></a><span style="color: #096ECC;" class="wysiwyg-font-size-large">.</span></p><h2 id="h_01K485746SP2MSEW3ZN2JJS9B0"><span style="color: #4D4D4D;" class="wysiwyg-font-size-large"><strong>Manage Your Membership</strong></span></h2><p style="font-size: 18px !important; padding: 0px; margin: 0px;">
+  To update your Membership Auto Renewal selection, please
+  <strong><a style="font-size: 18px !important; color: #06c; font-weight: bold;" href="https://help.barnesandnoble.com/hc/en-us/requests/new?ticket_form_id=5047060651803" target="_self">click here</a></strong>.
+</p><h4 id="h_01K4878VHP7011APF2M8HAMWTV"> </h4><h2 id="h_01K485G9HV51GH5TVNQE15M754"><span style="color: #4D4D4D;" class="wysiwyg-font-size-large"><strong>Need more help? We're just a click away!</strong></span></h2><p style="font-size: 18px !important;">
+       <strong>- Chat: </strong><a style="color: #06c; font-size: 18px !important;" id="myLink" href="#" onclick="window.adaEmbed.toggle();"><strong>Click here </strong></a>to
+  chat with us, available 24 hours a day.<br>
+</p><p style="font-size: 16px !important;"><span class="wysiwyg-font-size-large">     - <strong>Email: </strong></span><a style="color: #06c; font-size: 16px !important;" href="/hc/en-us/requests/new?ticket_form_id=4414014383131" target="_self" rel="undefined"><span class="wysiwyg-font-size-large"><strong>Click here</strong></span></a><span class="wysiwyg-font-size-large"> to email us and we'll get back to you shortly.</span><br> </p><p style="font-size: 16px !important;"><span style="color: #4D4D4D;" class="wysiwyg-font-size-large"><strong>Need to Call Us (Toll Free)?</strong></span></p><p><span class="wysiwyg-font-size-large">Phone support is available for order placement, payment updates, and Privacy Data Rights requests. </span><a href="https://help.barnesandnoble.com/hc/en-us/p/ebkoolsvwe"><span style="color: #096ECC;" class="wysiwyg-font-size-large"><strong>Click here</strong></span></a><span class="wysiwyg-font-size-large"> to get connected to an agent.</span></p><p style="font-size: 16px !important;"><span class="wysiwyg-font-size-large">By using phone, chat, or email, you agree to the terms of our </span><a style="color: #06c; font-size: 16px !important;" href="https://www.barnesandnoble.com/h/help/privacy-policy" target="_blank" rel="noopener noreferrer"><span class="wysiwyg-font-size-large"><strong>Privacy Policy</strong></span></a><span class="wysiwyg-font-size-large">.</span></p><p> </p><p><span class="wysiwyg-font-size-large"><span data-teams="true"><strong>Pro Tip:</strong> Before reaching out, you can save time by visiting our </span></span><a href="https://help.barnesandnoble.com/hc/en-us"><span style="color: #096ECC;" class="wysiwyg-font-size-large"><span data-teams="true"><strong>Help Center</strong></span></span></a><span class="wysiwyg-font-size-large"><span data-teams="true"> — it covers most common questions about orders, Membership, NOOK, and more.</span></span></p><p> </p></div>
+          
+        </div>
+      </section>
+
+   
+
+<!--       <div class="article-relatives">
+        
+          <div data-recent-articles></div>
+        
+        
+          
+  <section class="related-articles">
+    
+      <h2 class="related-articles-title">Related articles</h2>
+    
+    <ul>
+      
+        <li>
+          <a href="/hc/en-us/related/click?data=BAh7CjobZGVzdGluYXRpb25fYXJ0aWNsZV9pZGwrCJsHA7vXBDoYcmVmZXJyZXJfYXJ0aWNsZV9pZGwrCBuUizK7BDoLbG9jYWxlSSIKZW4tdXMGOgZFVDoIdXJsSSJAL2hjL2VuLXVzL2FydGljbGVzLzUzMjQ2MDIwMTc2OTEtUmVmdW5kLWFuZC1SZXR1cm4tUG9saWNpZXMGOwhUOglyYW5raQY%3D--d57237d8ec8a25a13a3a3471a77c0846d0f034ed" rel="nofollow">Refund and Return Policies</a>
+        </li>
+      
+        <li>
+          <a href="/hc/en-us/related/click?data=BAh7CjobZGVzdGluYXRpb25fYXJ0aWNsZV9pZGwrCBtKuiT6BDoYcmVmZXJyZXJfYXJ0aWNsZV9pZGwrCBuUizK7BDoLbG9jYWxlSSIKZW4tdXMGOgZFVDoIdXJsSSI1L2hjL2VuLXVzL2FydGljbGVzLzU0NzI0MDQ1MjM1NDctQ2FuY2VsLWFuLU9yZGVyBjsIVDoJcmFua2kH--0ec48b01f9727e7e9b01a2cdfc2f6611873bbcb4" rel="nofollow">Cancel an Order</a>
+        </li>
+      
+        <li>
+          <a href="/hc/en-us/related/click?data=BAh7CjobZGVzdGluYXRpb25fYXJ0aWNsZV9pZGwrCJtwgRDaBDoYcmVmZXJyZXJfYXJ0aWNsZV9pZGwrCBuUizK7BDoLbG9jYWxlSSIKZW4tdXMGOgZFVDoIdXJsSSI0L2hjL2VuLXVzL2FydGljbGVzLzUzMzQ2MjYzMDAwNTktT3JkZXItVHJhY2tpbmcGOwhUOglyYW5raQg%3D--2131a3ef77092719bbe65236adde82ea8ad67550" rel="nofollow">Order Tracking</a>
+        </li>
+      
+        <li>
+          <a href="/hc/en-us/related/click?data=BAh7CjobZGVzdGluYXRpb25fYXJ0aWNsZV9pZGwrCBtj2qjaBDoYcmVmZXJyZXJfYXJ0aWNsZV9pZGwrCBuUizK7BDoLbG9jYWxlSSIKZW4tdXMGOgZFVDoIdXJsSSI2L2hjL2VuLXVzL2FydGljbGVzLzUzMzcxODIyNjYxMzktRGVsZXRlLVlvdXItRGF0YQY7CFQ6CXJhbmtpCQ%3D%3D--bf6bb15f2fb4ae625ff79b2373671235324d9417" rel="nofollow">Delete Your Data</a>
+        </li>
+      
+        <li>
+          <a href="/hc/en-us/related/click?data=BAh7CjobZGVzdGluYXRpb25fYXJ0aWNsZV9pZGwrCBsQewwYEjoYcmVmZXJyZXJfYXJ0aWNsZV9pZGwrCBuUizK7BDoLbG9jYWxlSSIKZW4tdXMGOgZFVDoIdXJsSSI7L2hjL2VuLXVzL2FydGljbGVzLzE5ODk0NDk3OTA2NzE1LVJldGlyZWQtTk9PSy1EZXZpY2VzBjsIVDoJcmFua2kK--40f75b47e44cff2d6985383252b980e881e9d4af" rel="nofollow">Retired NOOK Devices</a>
+        </li>
+      
+    </ul>
+  </section>
+
+
+        
+      </div> -->
+      
+      
+      
+      
+    </article>
+  </div>
+</div>
+
+  </main>
+
+  <div class="container" style="text-align: center;">
+	<div class="rn_MoreQuestions">
+    <img src="https://dispatch.barnesandnoble.com/content/dam/rncx/Zendesk/more-questions.svg">
+ 		<h2 class="artPageHeader">Have more questions?</h2>
+    <a href="/hc/en-us/articles/5202053403675-Contact-Us" class="dkBlBtn">Contact Us</a>
+    <br />
+    <p>By using phone, chat or email, you agree to the terms of our 
+      	<a href="https://www.barnesandnoble.com/h/help/privacy-policy" style="text-decoration: underline; font-weight: bold;" >Privacy Policy</a>.
+    </p>
+	</div>
+</div>
+ 
+ 
+<div id="footer"></div>
+ 
+<!-- QA -->
+<!-- 
+//<script type="text/javascript">
+//CommerceHeaderFooter.showHeader('header',{env:'qa',consumer_host:'https://www-test.barnesandnoble.com',styling:'responsive'});
+//CommerceHeaderFooter.showFooter('footer',{env:'qa',consumer_host:'https://www-test.barnesandnoble.com',styling:'responsive'});
+//</script>
+ -->
+
+<script type="text/javascript">
+CommerceHeaderFooter.showHeader('header',{env:'prod',consumer_host:'https://www.barnesandnoble.com',styling:'responsive'});
+CommerceHeaderFooter.showFooter('footer',{env:'prod',consumer_host:'https://www.barnesandnoble.com',styling:'responsive'});
+</script>
+  
+
+ 
+
+
+ 
+
+
+</div>
+</body>
+  </html> 
+
+
+  <!-- / -->
+
+  
+  <script src="//static.zdassets.com/hc/assets/en-us.41d9221054ff82179c13.js"></script>
+  <script src="https://barnesandnoble.zendesk.com/auth/v2/host/without_iframe.js" data-brand-id="4414020466331" data-return-to="https://help.barnesandnoble.com/hc/en-us/articles/5202053403675-Contact-Us" data-theme="hc" data-locale="en-us" data-auth-origin="4414020466331,true,true"></script>
+
+  <script type="text/javascript">
+  /*
+
+    Greetings sourcecode lurker!
+
+    This is for internal Zendesk and legacy usage,
+    we don't support or guarantee any of these values
+    so please don't build stuff on top of them.
+
+  */
+
+  HelpCenter = {};
+  HelpCenter.account = {"subdomain":"barnesandnoble","environment":"production","name":"Barnes \u0026 Noble"};
+  HelpCenter.user = {"identifier":"da39a3ee5e6b4b0d3255bfef95601890afd80709","email":null,"name":"","role":"anonymous","avatar_url":"https://assets.zendesk.com/hc/assets/default_avatar.png","is_admin":false,"organizations":[],"groups":[]};
+  HelpCenter.internal = {"asset_url":"//static.zdassets.com/hc/assets/","web_widget_asset_composer_url":"https://static.zdassets.com/ekr/snippet.js","current_session":{"locale":"en-us","csrf_token":null,"shared_csrf_token":null},"usage_tracking":{"event":"article_viewed","data":"BAh7CDoLbG9jYWxlSSIKZW4tdXMGOgZFVDoPYXJ0aWNsZV9pZGwrCBuUizK7BDoKX21ldGF7DDoPYWNjb3VudF9pZGkDM6u1OhNoZWxwX2NlbnRlcl9pZGwrCBttKj8NBDoNYnJhbmRfaWRsKwibNh+4AwQ6DHVzZXJfaWQwOhN1c2VyX3JvbGVfbmFtZUkiDkFOT05ZTU9VUwY7BlQ7AEkiCmVuLXVzBjsGVDoaYW5vbnltb3VzX3RyYWNraW5nX2lkMA==--a483af5425dd7c4333fa3cac42b656a48fd7ec86","url":"https://help.barnesandnoble.com/hc/activity"},"current_record_id":"5202053403675","current_record_url":"/hc/en-us/articles/5202053403675-Contact-Us","current_record_title":"Contact Us","current_text_direction":"ltr","current_brand_id":4414020466331,"current_brand_name":"Barnes \u0026 Noble","current_brand_url":"https://barnesandnoble.zendesk.com","current_brand_active":true,"current_path":"/hc/en-us/articles/5202053403675-Contact-Us","show_autocomplete_breadcrumbs":true,"user_info_changing_enabled":false,"has_user_profiles_enabled":true,"has_end_user_attachments":true,"user_aliases_enabled":false,"has_anonymous_kb_voting":false,"has_multi_language_help_center":true,"show_at_mentions":false,"embeddables_config":{"embeddables_web_widget":false,"embeddables_help_center_auth_enabled":false,"embeddables_connect_ipms":false},"answer_bot_subdomain":"static","general_settings_url":"https://help.barnesandnoble.com/hc/admin/general_settings?locale=en-us","user_segments_url":"https://barnesandnoble.zendesk.com/knowledge/user_segments?brand_id=4414020466331","has_gather":true,"has_ckeditor":false,"has_community_enabled":false,"has_community_badges":true,"has_community_post_content_tagging":false,"has_gather_content_tags":true,"has_guide_content_tags":true,"has_user_segments":true,"has_answer_bot_web_form_enabled":true,"has_garden_modals":false,"theming_cookie_key":"hc-da39a3ee5e6b4b0d3255bfef95601890afd80709-2-preview","is_preview":false,"has_alternate_templates":true,"arrange_articles_url":"https://barnesandnoble.zendesk.com/knowledge/arrange?brand_id=4414020466331","article_verification_url":"https://barnesandnoble.zendesk.com/knowledge/verification?brand_id=4414020466331","has_article_verification":true,"guide_language_settings_url":"https://help.barnesandnoble.com/hc/admin/language_settings?locale=en-us","docs_importer_url":"https://barnesandnoble.zendesk.com/knowledge/import_articles?brand_id=4414020466331","content_tags_url":"https://barnesandnoble.zendesk.com/knowledge/content_tags?brand_id=4414020466331","community_badges_url":"https://barnesandnoble.zendesk.com/knowledge/community_badges?brand_id=4414020466331","community_settings_url":"https://barnesandnoble.zendesk.com/knowledge/community_settings?brand_id=4414020466331","gather_plan_state":"subscribed","search_settings_url":"https://barnesandnoble.zendesk.com/knowledge/search_settings?brand_id=4414020466331","has_search_settings_in_plan":true,"theming_api_version":2,"theming_settings":{"ai_chat_mode":"ai_chat","business_hours_start":"00:01","business_hours_end":"21:00","business_days_monday":true,"business_days_tuesday":true,"business_days_wednesday":true,"business_days_thursday":true,"business_days_friday":true,"business_days_saturday":true,"business_days_sunday":true,"ai_chat_script_url":"https://static.ada.support/embed2.js","ai_chat_handle":"barnesandnoble","brand_color":"#17494D","brand_text_color":"#FFFFFF","text_color":"#2F3941","link_color":"#1F73B7","visited_link_color":"#4B61C3","background_color":"#FFFFFF","heading_font":"-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif","text_font":"-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif","logo":"/hc/theming_assets/01K173H00R1VMYGRTZX4YH4AMK","show_brand_name":false,"favicon":"/hc/theming_assets/01K173H0ECSVN5R69JZ0MPWRKR","homepage_background_image":"/hc/theming_assets/01K173H0WWCK73ZZ0DEA45E8GM","community_background_image":"/hc/theming_assets/01K173H0WWCK73ZZ0DEA45E8GM","community_image":"/hc/theming_assets/01K173H0WWCK73ZZ0DEA45E8GM","instant_search":true,"scoped_kb_search":true,"scoped_community_search":true,"show_recent_activity":false,"show_articles_in_section":false,"show_article_author":false,"show_article_comments":false,"show_follow_article":false,"show_recently_viewed_articles":true,"show_related_articles":true,"show_article_sharing":true,"show_follow_section":false,"show_follow_post":false,"show_post_sharing":true,"show_follow_topic":true},"has_pci_credit_card_custom_field":true,"help_center_restricted":false,"is_assuming_someone_else":false,"flash_messages":[],"user_photo_editing_enabled":true,"user_preferred_locale":"en-us","base_locale":"en-us","login_url":"https://barnesandnoble.zendesk.com/access?brand_id=4414020466331\u0026locale=en-us\u0026return_to=https%3A%2F%2Fhelp.barnesandnoble.com%2Fhc%2F","has_custom_statuses_enabled":true,"has_hc_generative_answers_setting_enabled":true,"has_generative_search_with_zgpt_enabled":false,"has_guide_service_catalog":true,"has_service_catalog_search_poc":false,"has_service_catalog_itam":false,"has_remove_breadcrumbs":true,"has_csat_reverse_2_scale_in_mobile":false,"has_knowledge_navigation":false,"version":"v26574","dev_mode":false};
+</script>
+
+  
+  <script src="//static.zdassets.com/hc/assets/hc_enduser-86686ec182d31ace77dfb4c2c8d74533.js"></script>
+  <script type="text/javascript" src="/hc/theming_assets/11905843/4414020466331/script.js?digest=42538433322779"></script>
+  <script src="//analytics.zdassets.com/hc/assets/analytics-42456824b1e8435ed29382e709f2b4b8.js"></script>
+</body>
+</html>

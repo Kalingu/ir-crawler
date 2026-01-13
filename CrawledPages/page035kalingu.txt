@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" data-v-bolt>
+  <head>
+    <meta charset="utf-8">
+    <title>Wired</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+    <meta name="description" content="">
+    <meta name="theme-color" content="">
+    <meta name="PugpigBoltReaderVersion" content="6.6.24">
+    <meta name="mobile-web-app-capable" content="yes">
+    <script>console.info('Bolt Reader Version: 6.6.24')</script>
+    <meta name="apple-itunes-app" content="app-id=, app-argument=https://archive.wired.com"><link rel="manifest" href="/manifest.json">
+    <meta name="mobile-web-app-capable" content="yes">
+    <script type="module" crossorigin src="/bolt/6.6.24/index-B6asTIGY.js"></script>
+    <link rel="stylesheet" crossorigin href="/bolt/6.6.24/index-B_hNFaQn.css">
+      <meta name="globalsign-domain-verification" content="thd7E7UopYXYjL-1yDVRoN1RnrJDsheNG4z-I60fta" />
+    <meta name="globalsign-domain-verification" content="CLyidsbyUaKTCxVsefSSLz-ISmFR9njZBlyILEOaFg" />
+    <meta name="globalsign-domain-verification" content="yPx34xZJVkwX36Ss7f3Rc_N7bPDnO-wIWEU4dxlpDv" />
+    <meta name="globalsign-domain-verification" content="1jgt-sxXhzTO74cD2IokPyMWPlwbD6cPHSsF1M96rX" />
+    <meta name="globalsign-domain-verification" content="MK_ZKmss4D_DdzGOsssHxxBOK6hJc6LGycFvNOESdZ" />
+    <meta name="globalsign-domain-verification" content="dAnUnX2MJVn73TgoWV5IfY-NOgbhmdDK-7oDGEnJG5" />
+    <meta name="globalsign-domain-verification" content="GJm48GPElnrft6MIPJUa7fLamR0YhuVvK7iogQoXk4" />
+    <meta name="globalsign-domain-verification" content="Fl2H3LvVKJePb5Vpmk3BkYLRFFw5uGXh-Fi8_-eh5B" />
+    <meta name="globalsign-domain-verification" content="rAu1hSMFGdhG4ymYPQy1ZZFRjIvEcEp8y9wfaJQmFC" />
+    <meta name="globalsign-domain-verification" content="rAu1hSMFGdhG4ymYPQy1ZZFRjIvEcEp8y9wfaJQmFC" />
+    <meta name="globalsign-domain-verification" content="Adit9R0CTxGKJmbHLvLzO9K8pOPjXG95l7ciZnaV10" />
+</head>
+  <body>
+    <noscript>
+      <strong>We're sorry this app doesn't work properly without JavaScript enabled. Please enable it to continue.</strong>
+    </noscript>
+    <div id="outdated" class="fullscreen"></div>
+    <div id="app"></div>
+  </body>
+</html>

@@ -1,0 +1,2135 @@
+
+
+
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+    <title>State of the Markets Report H2 2025</title>
+
+<link href="/SVB_Assets/fonts/Inter/Inter-Bold.woff2?v=3.15" rel="preload" as="font" type="font/woff2" crossorigin="anonymous" />
+<link href="/SVB_Assets/fonts/Inter/Inter-BoldItalic.woff2?v=3.15" rel="preload" as="font" type="font/woff2" crossorigin="anonymous" />
+<link href="/SVB_Assets/fonts/Inter/Inter-Regular.woff2?v=3.15" rel="preload" as="font" type="font/woff2" crossorigin="anonymous" />
+<link href="/SVB_Assets/fonts/Inter/Inter-Italic.woff2?v=3.15" rel="preload" as="font" type="font/woff2" crossorigin="anonymous" />
+
+<link href="/SVB_Assets/vendor/fontawesome-pro-6.4.0/webfonts/fa-light-300.woff2" rel="preload" as="font" type="font/woff2" crossorigin="anonymous" />
+<link href="/SVB_Assets/vendor/fontawesome-pro-6.4.0/webfonts/fa-solid-900.woff2" rel="preload" as="font" type="font/woff2" crossorigin="anonymous" />
+<link href="/SVB_Assets/vendor/fontawesome-pro-6.4.0/webfonts/fa-brands-400.woff2" rel="preload" as="font" type="font/woff2" crossorigin="anonymous" />
+
+
+        <script src="https://bcsvb.svb.com/script.js"></script>
+
+        <link href="https://nebula-cdn.kampyle.com/wu/485159/onsite/embed.js" rel="preconnect" />
+
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+    <link rel="manifest" href="/site.webmanifest">
+
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta property="og:url" content="https://www.svb.com/trends-insights/reports/state-of-the-markets-report/" />
+    <meta name="twitter:site" content="@SVB_Financial" />
+        <meta name="keywords" content="state of the market,state of the market report&#xA0;,svb state of the markets,current state of markets,innovation economy,venture landscape,vc fundraising,market performance reports,innovation economy report,venture capital markets,venture capital fundraising,venture monitor" />
+        <meta property="og:image" content="https://www.svb.com/trends-insights/reports/state-of-the-markets-report/contentassets/svbsotmmeta.png" />
+        <meta name="twitter:image" content="https://www.svb.com/trends-insights/reports/state-of-the-markets-report/contentassets/svbsotmmeta.png" />
+        <meta name="twitter:card" content="summary_large_image" />
+        <meta name="description" content="Silicon Valley Bank&#x27;s comprehensive innovation economy outlook analysis. H2 2025 insights on VC investment trends, AI funding, startup growth and market forecasts. " />
+        <meta property="og:description" content="Silicon Valley Bank&#x27;s comprehensive innovation economy outlook analysis. H2 2025 insights on VC investment trends, AI funding, startup growth and market forecasts. " />
+        <meta name="twitter:description" content="Silicon Valley Bank&#x27;s comprehensive innovation economy outlook analysis. H2 2025 insights on VC investment trends, AI funding, startup growth and market forecasts. " />
+    <meta property="og:title" content="State of the Markets Report H2 2025" />
+    <meta name="twitter:title" content="State of the Markets Report H2 2025" />
+    <meta property="idio:page-type" content="Thought Leadership" />
+    <meta name="pageID" content="117744" />
+    
+    <meta property="idio:page-template" content="report" />
+        <meta property="article:category" content="Market Insights" />
+        <meta property="idio:catid" content="17" />
+
+
+<link href="https://www.svb.com/trends-insights/reports/state-of-the-markets-report/" rel="canonical" />
+
+    <script type="text/javascript">
+        window.dataLayer = window.dataLayer || [];
+        dataLayer.push({
+        'PageType': 'Thought Leadership'
+                });
+
+        let hasFormData = localStorage.getItem("formData") != null;
+
+    </script>
+
+
+
+    <script>
+        window.dataLayer = window.dataLayer || []; function gtag() { dataLayer.push(arguments); }
+        gtag('set', 'developer_id.dNzMyY2', true);
+        gtag('consent', 'default', { 'analytics_storage': 'denied' });
+        gtag('consent', 'default', { 'ad_storage': 'denied' });
+        gtag('consent', 'default', { 'ad_user_data': 'denied' });
+        gtag('consent', 'default', { 'ad_personalization': 'denied' });
+    </script>
+<!-- Google Tag Manager -->
+<script>
+	(function (w, d, s, l, i) {
+		w[l] = w[l] || []; w[l].push({
+			'gtm.start': new Date().getTime(), event: 'gtm.js'
+		}); var f = d.getElementsByTagName(s)[0],
+			j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+				'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+	})(window, document, 'script', 'dataLayer', 'GTM-K9C44F');
+</script>
+<!-- End Google Tag Manager -->
+    <!--CSS bundle-->
+
+
+    <link rel="stylesheet" href="/dist/bundle.min.css?v=q2GiRc-Dq_tq3DJ6hfVEK7srjS3LdgxeIQu-CO19W4Y" />
+
+
+    <style>
+/* Fixes for Accessibility 
+.x.g2 a { color: #007DB8 }
+.x.g2 a:hover { color: #004B6C }
+*/
+
+</style>
+
+
+    <!--JS bundle-->
+
+
+
+
+    <script src="/dist/bundle-min.js?v=GDWeK-a6ckjhocZZfRujSor_eiB3qT1FHKc9pncyCps" type="text/javascript"></script>
+
+<script src="/SVB_Assets/javascripts/c-tkn-prod.js" type="text/javascript"></script>
+
+    
+
+    <link href="/SVB_Assets/vendor/simplebar-5.0.7/simplebar.min.css?v=wc8woRuA7WVR5BUdqW6aFzR2jFt08r9FUxe-2Qs7lnA" rel="stylesheet" />
+<link href="/SVB_Assets/stylesheets/x/x-carousels.css?v=X_yDI9mZEjCtw_GnA32Rx6WRsUsS2gEB0G1x_Itqbs4" rel="stylesheet" />
+<link href="/Static/css/cards.min.css?v=T0hQek-c0NcgRp80OHShVIIP7lSsJqbh-e1CizFheE0" rel="stylesheet" />
+<script src="https://lp.svb.com/js/forms2/js/forms2.min.js"></script>
+<script>
+!function(T,l,y){var S=T.location,k="script",D="instrumentationKey",C="ingestionendpoint",I="disableExceptionTracking",E="ai.device.",b="toLowerCase",w="crossOrigin",N="POST",e="appInsightsSDK",t=y.name||"appInsights";(y.name||T[e])&&(T[e]=t);var n=T[t]||function(d){var g=!1,f=!1,m={initialize:!0,queue:[],sv:"5",version:2,config:d};function v(e,t){var n={},a="Browser";return n[E+"id"]=a[b](),n[E+"type"]=a,n["ai.operation.name"]=S&&S.pathname||"_unknown_",n["ai.internal.sdkVersion"]="javascript:snippet_"+(m.sv||m.version),{time:function(){var e=new Date;function t(e){var t=""+e;return 1===t.length&&(t="0"+t),t}return e.getUTCFullYear()+"-"+t(1+e.getUTCMonth())+"-"+t(e.getUTCDate())+"T"+t(e.getUTCHours())+":"+t(e.getUTCMinutes())+":"+t(e.getUTCSeconds())+"."+((e.getUTCMilliseconds()/1e3).toFixed(3)+"").slice(2,5)+"Z"}(),iKey:e,name:"Microsoft.ApplicationInsights."+e.replace(/-/g,"")+"."+t,sampleRate:100,tags:n,data:{baseData:{ver:2}}}}var h=d.url||y.src;if(h){function a(e){var t,n,a,i,r,o,s,c,u,p,l;g=!0,m.queue=[],f||(f=!0,t=h,s=function(){var e={},t=d.connectionString;if(t)for(var n=t.split(";"),a=0;a<n.length;a++){var i=n[a].split("=");2===i.length&&(e[i[0][b]()]=i[1])}if(!e[C]){var r=e.endpointsuffix,o=r?e.location:null;e[C]="https://"+(o?o+".":"")+"dc."+(r||"services.visualstudio.com")}return e}(),c=s[D]||d[D]||"",u=s[C],p=u?u+"/v2/track":d.endpointUrl,(l=[]).push((n="SDK LOAD Failure: Failed to load Application Insights SDK script (See stack for details)",a=t,i=p,(o=(r=v(c,"Exception")).data).baseType="ExceptionData",o.baseData.exceptions=[{typeName:"SDKLoadFailed",message:n.replace(/\./g,"-"),hasFullStack:!1,stack:n+"\nSnippet failed to load ["+a+"] -- Telemetry is disabled\nHelp Link: https://go.microsoft.com/fwlink/?linkid=2128109\nHost: "+(S&&S.pathname||"_unknown_")+"\nEndpoint: "+i,parsedStack:[]}],r)),l.push(function(e,t,n,a){var i=v(c,"Message"),r=i.data;r.baseType="MessageData";var o=r.baseData;return o.message='AI (Internal): 99 message:"'+("SDK LOAD Failure: Failed to load Application Insights SDK script (See stack for details) ("+n+")").replace(/\"/g,"")+'"',o.properties={endpoint:a},i}(0,0,t,p)),function(e,t){if(JSON){var n=T.fetch;if(n&&!y.useXhr)n(t,{method:N,body:JSON.stringify(e),mode:"cors"});else if(XMLHttpRequest){var a=new XMLHttpRequest;a.open(N,t),a.setRequestHeader("Content-type","application/json"),a.send(JSON.stringify(e))}}}(l,p))}function i(e,t){f||setTimeout(function(){!t&&m.core||a()},500)}var e=function(){var n=l.createElement(k);n.src=h;var e=y[w];return!e&&""!==e||"undefined"==n[w]||(n[w]=e),n.onload=i,n.onerror=a,n.onreadystatechange=function(e,t){"loaded"!==n.readyState&&"complete"!==n.readyState||i(0,t)},n}();y.ld<0?l.getElementsByTagName("head")[0].appendChild(e):setTimeout(function(){l.getElementsByTagName(k)[0].parentNode.appendChild(e)},y.ld||0)}try{m.cookie=l.cookie}catch(p){}function t(e){for(;e.length;)!function(t){m[t]=function(){var e=arguments;g||m.queue.push(function(){m[t].apply(m,e)})}}(e.pop())}var n="track",r="TrackPage",o="TrackEvent";t([n+"Event",n+"PageView",n+"Exception",n+"Trace",n+"DependencyData",n+"Metric",n+"PageViewPerformance","start"+r,"stop"+r,"start"+o,"stop"+o,"addTelemetryInitializer","setAuthenticatedUserContext","clearAuthenticatedUserContext","flush"]),m.SeverityLevel={Verbose:0,Information:1,Warning:2,Error:3,Critical:4};var s=(d.extensionConfig||{}).ApplicationInsightsAnalytics||{};if(!0!==d[I]&&!0!==s[I]){var c="onerror";t(["_"+c]);var u=T[c];T[c]=function(e,t,n,a,i){var r=u&&u(e,t,n,a,i);return!0!==r&&m["_"+c]({message:e,url:t,lineNumber:n,columnNumber:a,error:i}),r},d.autoExceptionInstrumented=!0}return m}(y.cfg);function a(){y.onInit&&y.onInit(n)}(T[t]=n).queue&&0===n.queue.length?(n.queue.push(a),n.trackPageView({})):a()}(window,document,{src: "https://js.monitor.azure.com/scripts/b/ai.2.gbl.min.js", crossOrigin: "anonymous", cfg: {instrumentationKey: 'dc4f7751-ee31-4284-b5c0-8373d2be9747', disableCookiesUsage: false }});
+</script>
+<script>
+var _modernHtmlPlayerKey = 'AIzaSyA2LoqyU-mHEBCBQ0k0UIxmHR6-wnXh-Dw';
+</script>
+
+
+    <script type="application/ld+json">
+        {
+            "@context": "https://schema.org",
+            "@type": "WebPage",
+            "url": "https://www.svb.com/trends-insights/reports/state-of-the-markets-report/",
+            "name": "State of the Markets Report H2 2025",
+            "sourceOrganization" : {
+                "@type": "Organization",
+                "name": "Silicon Valley Bank"
+            },
+            "description": "Silicon Valley Bank&#x27;s comprehensive innovation economy outlook analysis. H2 2025 insights on VC investment trends, AI funding, startup growth and market forecasts. "
+        }
+    </script>
+
+
+</head>
+
+
+<body class="N01--overlaid">
+
+
+<!-- Google Tag Manager (noscript) -->
+<noscript>
+	<iframe src="https://www.googletagmanager.com/ns.html?id=GTM-K9C44F" height="0" width="0" style="display:none;visibility:hidden" title="Google Tag Manager NoScript"></iframe>
+</noscript>
+<!-- End Google Tag Manager (noscript) -->
+    
+
+    <div id="skip"><a href="#maincontent">Skip to Content</a></div>
+    <div class="main-wrapper">
+        <div id="fb-root"></div>
+
+
+
+
+
+
+
+<div class="nav-container">
+    <!-- START: 'Navigation' -->
+    <!-- begin FDIC logo -->
+    <!-- end FDIC logo -->
+    <!-- begin main-nav code -->
+    <nav class="svbn5b" aria-label="SVB Main Navigation">
+        <div class="n5b-grid-wrap navb-grid-wrap">
+
+
+
+
+
+
+<!-- desktop -->
+      <div class="navb-grid-main">
+        <div class="navb-logo">
+          <a class="link-home" href="/" target="_self" title="Silicon Valley Bank - Home"><img src="https://www.svb.com/SVB_Assets/images/SVB_SiliconValleyBank_FCB_Horizontal_logo.svg" alt="Silicon Valley Bank a Division of First Citizens Bank"></a>
+        </div>
+
+        <div class="navb-grid-menu">
+          
+          <div class="navb-category nbc-1"><a href="#" class="navb-link-category">Who We Serve <span class="link-icon fa fa-angle-down"><!-- --></span></a>
+            <div class="navb-category-menu">
+              <div class="nbcm-inner">
+                <div class="nbmci-content">
+                  <div class="nbc-title">GROWTH STAGES</div>
+                  <ul class="nbc-link-list">
+                    <li><a href="/startup-banking/">Startup Banking</a></li>
+                    <li class="indent"><a href="/startup-banking/">Pre-Seed &amp; Seed</a></li>
+                    <li class="indent"><a href="/series-a/">Series A</a></li>
+                    <li><a href="/venture-funded/">Venture-Funded Series B&plus;</a></li>
+                    <li><a href="/corporate-banking/">Corporate Banking</a></li>
+                  </ul>
+                </div>
+                <div class="nbmci-content">
+                  <div class="nbc-title">INVESTORS</div>
+                  <ul class="nbc-link-list">
+                    <li><a href="/investor-solutions/venture-capital/">Venture Capital &amp; Corporate Venture</a></li>
+                    <li><a href="/investor-solutions/emerging-managers/">Emerging Managers</a></li>
+                  </ul>
+                </div>
+                <div class="nbmci-content">
+                  <div class="nbc-title">INDUSTRIES</div>
+                  <ul class="nbc-link-list">
+                    <li><a href="/industry-solutions/cleantech-and-sustainability/">Cleantech &amp; Sustainability</a></li>
+                    <li><a href="/industry-solutions/consumer-internet/">Consumer Internet</a></li>
+                    <li><a href="/industry-solutions/aerospace-defense-technology/">Defense Tech &amp; Aerospace</a></li>
+                    <li><a href="/industry-solutions/enterprise-software/">Enterprise Software</a></li>
+                    <li><a href="/industry-solutions/fintech/">Fintech</a></li>
+                    <li><a href="/industry-solutions/hardware-frontier-technology/">Hardware &amp; Frontier Tech</a></li>
+                    <li><a href="/industry-solutions/global-life-science-healthcare/">Life Science &amp; Healthcare</a></li>
+                    <li><a href="/wine/">Premium Wine</a></li>
+                  </ul>
+                </div>
+                <div class="nbmci-content">
+                  <div class="nbc-title">PRIVATE FUNDS</div>
+                  <ul class="nbc-link-list">
+                    <li><a href="/global-fund-banking/pe-credit-fund-banking/">Private Equity &amp; Private Credit</a></li>
+                    <li><a href="/global-fund-banking/vc-fund-banking/">Venture Capital</a></li>
+                    <li><a href="/landing-pages/limited-partners/">Limited Partners</a></li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="navb-category nbc-2"><a href="#" class="navb-link-category">Products <span class="link-icon fa fa-angle-down"><!-- --></span></a>
+            <div class="navb-category-menu">
+              <div class="nbcm-inner">
+                <div class="nbmci-content">
+                  <div class="nbc-title">BUSINESS BANKING</div>
+                  <ul class="nbc-link-list">
+                    <li><a href="/business-banking/business-checking/">Business Checking</a></li>
+                    <li><a href="/business-banking/lending/">Lending</a></li>
+                    <li><a href="/business-banking/commercial-credit-cards/">Commercial Cards</a></li>
+                    <li><a href="/business-banking/payment-solutions/">Payment Solutions</a></li>
+                    <li><a href="/business-banking/treasury-management/">Treasury Management</a></li>
+                    <li><a href="/platform/">Digital Banking Platform</a></li>
+                    <li><a href="/business-banking/lending/venture-debt/">Venture Debt</a></li>
+                  </ul>
+                </div>
+                <div class="nbmci-content">
+                  <div class="nbc-title">LIQUIDITY MANAGEMENT</div>
+                  <ul class="nbc-link-list">
+                    <li><a href="/liquidity-management/cash-management-accounts/">Cash Management Accounts</a></li>
+                    <li><a href="/liquidity-management/asset-management-services/">SVB Asset Management</a></li>
+                  </ul>
+                </div>
+                <div class="nbmci-content">
+                  <div class="nbc-title">INTERNATIONAL BANKING</div>
+                  <ul class="nbc-link-list">
+                    <li><a href="/global-business-solutions/global-banking-services/">International Business Services</a></li>
+<li><a href="/global-business-solutions/global-banking-services/global-trade-finance/">Global Trade Finance</a></li>
+                    <li><a href="/global-business-solutions/foreign-exchange-services/">Foreign Exchange Services</a></li>
+                  </ul>
+                </div>
+                <div class="nbmci-content">
+                  <div class="nbc-title">PRIVATE FUND BANKING</div>
+                  <ul class="nbc-link-list">
+                    <li><a href="/global-fund-banking/pe-credit-fund-banking/">Private Equity &amp; Private Credit</a></li>
+                    <li><a href="/global-fund-banking/vc-fund-banking/">Venture Capital</a></li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="navb-category nbc-3"><a href="#" class="navb-link-category">Insights <span class="link-icon fa fa-angle-down"><!-- --></span></a>
+            <div class="navb-category-menu">
+              <div class="nbcm-inner">
+                <div class="nbmci-content">
+                  <div class="nbc-title">REPORTS</div>
+                  <ul class="nbc-link-list">
+                    <li><a href="/trends-insights/reports/future-of-climate-tech/">Future of Climate Tech</a></li>
+                    <li><a href="/trends-insights/reports/fintech-industry-report/">Future of Fintech</a></li>
+                    <li><a href="/trends-insights/reports/healthcare-investments-and-exits/">Healthcare Investment and Exits</a></li>
+                    <li><a href="/trends-insights/reports/healthtech-trends-report/">Future of Healthtech</a></li>
+                    <li><a href="/trends-insights/reports/state-of-the-markets-report/">State of the Markets</a></li>
+                    <li><a href="/trends-insights/reports/wine-report/">State of the Wine Industry</a></li>
+                    <li><a href="/trends-insights/reports/womens-health-report/">Innovation in Women&apos;s Health</a></li>
+                    <li><a href="/trends-insights/signature-research/">View All Reports</a></li>
+                  </ul>
+                </div>
+                <div class="nbmci-content">
+                  <div class="nbc-title">PERSPECTIVE &amp; INSIGHTS</div>
+                  <ul class="nbc-link-list">
+                    <li><a href="/foreign-exchange-advisory/">Foreign Exchange Advisory</a></li>
+                    <li><a href="/business-growth/">Business Growth</a></li>
+                    <li><a href="/market-insights/">Market Insights</a></li>
+                    <li><a href="/industry-insights/">Industry Insights</a></li>
+                    <li><a href="/startup-insights/">Startup Insights</a></li>
+                    <li><a href="/commercial-cards-insights/">Commercial Cards Insights</a></li>
+                    <li><a href="/business-growth/treasury-management/">Treasury Management Insights</a></li>
+                    <li><a href="/trends-insights/perspectives/">View All Insights</a></li>
+                  </ul>
+                </div>
+                <div class="nbmci-content">
+                  <div class="nbc-title">MORE</div>
+                  <ul class="nbc-link-list">
+                    <li><a href="/success-stories/case-studies/">Case Studies</a></li>
+                    <li><a href="/events/">Events &amp; Sponsorships</a></li>
+                  </ul>
+                </div>
+                <div class="nbmci-content">
+                  <div class="nbc-title">PRIVATE FUNDS</div>
+                  <ul class="nbc-link-list">
+                    <li><a href="/trends-insights/reports/global-fund-banking-outlook-report/">Global Fund Banking Outlook</a></li>
+                    <li><a href="/private-funds-cfo-insights/">Private Funds CFO Insights</a></li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="navb-category nbc-4"><a href="#" class="navb-link-category">About <span class="link-icon fa fa-angle-down"><!-- --></span></a>
+            <div class="navb-category-menu">
+              <div class="nbcm-inner">
+                <div class="nbmci-content">
+                  <ul class="nbc-link-list">
+                    <li><a href="/about-svb/">About SVB</a></li>
+                    <li><a href="/contact/">Contact Us</a></li>
+                    <li><a href="/careers/">Careers</a></li>
+                    <li><a href="/locations/">Locations</a></li>
+                  </ul>
+                </div>
+                <div class="nbmci-content">
+                  <ul class="nbc-link-list">
+                    <li><a href="/newsroom/">Newsroom</a></li>
+                    <li><a href="/about-svb/catalyst-2045/">Catalyst 2045</a></li>
+                    <li><a href="/about-svb/recent-transactions/">Recent Transactions</a></li>
+                    <li><a href="/about-svb/svb-client-faqs/">SVB FAQ</a></li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="navb-grid-tools">
+          <a href="/" class="navb-link-search" title="Search"><span class="search-icon far fa-search"></span></a>
+          <div><a href="/connect/" class="navb-link-join"><span>Get started</span><span class="ico-join far fa-arrow-right"><!-- --></span></a></div>
+
+          <div class="navb-login">
+            <a href="https://connect.svb.com/" class="navb-link-login" target="_blank" rel="noopener noreferrer"><span class="icon fal fa-user-circle"><!-- --></span><span class="text">Login</span></a>
+          </div>
+        </div>
+      </div>
+      <!-- end desktop --><!-- mobile -->
+      <div class="navb-grid-mobile" aria-label="SVB Main Navigation - Mobile">
+        <div class="navb-bars">
+          <a class="mm-link-open" href="#" title="Open menu"><span class="icon fa fa-bars"><!-- --></span></a>
+          <a class="mm-link-close" href="#" title="Close menu"><span class="icon fa fa-times"><!-- --></span></a>
+        </div>
+        <div class="navb-logo">
+          <a class="navb-link-home" href="/" title="Silicon Valley Bank - Home"><img src="https://www.svb.com/SVB_Assets/images/SVB_SiliconValleyBank_FCB_Horizontal_logo.svg" alt="Silicon Valley Bank a Division of First Citizens Bank"></a>
+        </div>
+        <div class="navb-login">
+          <a href="https://connect.svb.com/" target="_blank" rel="noopener noreferrer" class="mm-link-login" title="Login"><span class="icon far fa-user-circle"><!-- --></span></a>
+        </div>
+      </div>
+      <div class="navb-wrap-menu-mobile">
+        <div class="navb-menu-mobile">
+          <div class="mmenu main navb-active">
+            <a href="#" class="link-mmenu link-search">
+              <span class="icon far fa-search"><!-- --></span>
+              <span>Search SVB</span>
+            </a>
+            <a href="#" data-ref="whoweserve" class="link-mmenu">Who We Serve<span class="icon far fa-angle-right"><!-- --></span></a>
+            <a href="#" data-ref="products" class="link-mmenu">Products<span class="icon far fa-angle-right"><!-- --></span></a>
+            <a href="#" data-ref="insights" class="link-mmenu">Insights<span class="icon far fa-angle-right"><!-- --></span></a>
+            <a href="#" data-ref="about" class="link-mmenu">About<span class="icon far fa-angle-right"><!-- --></span></a>
+            <div>
+              <a href="/connect/" class="link-button mm-link-join">Get started</a>
+              <a href="https://connect.svb.com/" target="_blank" rel="noopener noreferrer" class="link-button mm-link-login"><span>Login</span></a>
+            </div>
+          </div>
+          <div class="mmenu whoweserve hidden">
+            <a href="#" data-ref="whoweserve-return" class="mm-link-return"><span class="icon far fa-angle-left"><!-- --></span>Who We Serve</a>
+            <div class="mm-category">
+              <a href="#" class="mm-link-category">GROWTH STAGES<span class="icon far fa-angle-down"><!-- --></span></a>
+              <div class="mm-category-content">
+                <a href="/startup-banking/">Startup Banking</a>
+                <a href="/startup-banking/">Pre-Seed &amp; Seed</a>
+                <a href="/series-a/">Series A</a>
+                <a href="/venture-funded/">Venture-Funded Series B&plus;</a>
+                <a href="/corporate-banking/">Corporate Banking</a>
+              </div>
+            </div>
+            <div class="mm-category">
+              <a href="#" class="mm-link-category">INVESTORS<span class="icon far fa-angle-down"><!-- --></span></a>
+              <div class="mm-category-content">
+                <a href="/investor-solutions/venture-capital/">Venture Capital &amp; Corporate Venture</a>
+                <a href="/investor-solutions/emerging-managers/">Emerging Managers</a>
+              </div>
+            </div>
+            <div class="mm-category">
+              <a href="#" class="mm-link-category">INDUSTRIES<span class="icon far fa-angle-down"><!-- --></span></a>
+              <div class="mm-category-content">
+                <a href="/industry-solutions/cleantech-and-sustainability/">Cleantech &amp; Sustainability</a>
+                <a href="/industry-solutions/consumer-internet/">Consumer Internet</a>
+<a href="/industry-solutions/aerospace-defense-technology/">Defense Tech &amp; Aerospace</a>
+                <a href="/industry-solutions/enterprise-software/">Enterprise Software</a>
+                <a href="/industry-solutions/fintech/">Fintech</a>
+                <a href="/industry-solutions/hardware-frontier-technology/">Hardware &amp; Frontier Tech</a>
+                <a href="/industry-solutions/global-life-science-healthcare/">Life Science &amp; Healthcare</a>
+                <a href="/wine/">Premium Wine</a>
+              </div>
+            </div>
+            <div class="mm-category">
+              <a href="#" class="mm-link-category">PRIVATE FUNDS<span class="icon far fa-angle-down"><!-- --></span></a>
+              <div class="mm-category-content">
+                <a href="/global-fund-banking/pe-credit-fund-banking/">Private Equity &amp; Private Credit</a>
+                <a href="/global-fund-banking/vc-fund-banking/">Venture Capital</a>
+                <a href="/landing-pages/limited-partners/">Limited Partners</a>
+              </div>
+            </div>
+          </div>
+          <div class="mmenu products hidden">
+            <a href="#" data-ref="products-return" class="mm-link-return"><span class="icon far fa-angle-left"><!-- --></span>Products</a>
+            <div class="mm-category">
+              <a href="#" class="mm-link-category">BUSINESS BANKING<span class="icon far fa-angle-down"><!-- --></span></a>
+              <div class="mm-category-content">
+                <a href="/business-banking/business-checking/">Business Checking</a>
+                <a href="/business-banking/lending/">Lending</a>
+                <a href="/business-banking/commercial-credit-cards/">Commercial Cards</a>
+                <a href="/business-banking/payment-solutions/">Payment Solutions</a>
+                <a href="/business-banking/treasury-management/">Treasury Management</a>
+                <a href="/platform/">Digital Banking Platform</a>
+                <a href="/business-banking/lending/venture-debt/">Venture Debt</a>
+              </div>
+            </div>
+            <div class="mm-category">
+              <a href="#" class="mm-link-category">LIQUIDITY MANAGEMENT<span class="icon far fa-angle-down"><!-- --></span></a>
+              <div class="mm-category-content">
+                <a href="/liquidity-management/cash-management-accounts/">Cash Management Accounts</a>
+                <a href="/liquidity-management/asset-management-services/">SVB Asset Management</a>
+              </div>
+            </div>
+            <div class="mm-category">
+              <a href="#" class="mm-link-category">INTERNATIONAL BANKING<span class="icon far fa-angle-down"><!-- --></span></a>
+              <div class="mm-category-content">
+                <a href="/global-business-solutions/global-banking-services/">International Business Services</a>
+<a href="/global-business-solutions/global-banking-services/global-trade-finance/">Global Trade Finance</a>
+                <a href="/global-business-solutions/foreign-exchange-services/">Foreign Exchange Services</a>
+              </div>
+            </div>
+            <div class="mm-category">
+              <a href="#" class="mm-link-category">PRIVATE FUND BANKING<span class="icon far fa-angle-down"><!-- --></span></a>
+              <div class="mm-category-content">
+                <a href="/global-fund-banking/pe-credit-fund-banking/">Private Equity &amp; Private Credit</a>
+                <a href="/global-fund-banking/vc-fund-banking/">Venture Capital</a>
+              </div>
+            </div>
+          </div>
+          <div class="mmenu insights hidden">
+            <a href="#" data-ref="insights-return" class="mm-link-return"><span class="icon far fa-angle-left"><!-- --></span>Insights</a>
+            <div class="mm-category">
+              <a href="#" class="mm-link-category">REPORTS<span class="icon far fa-angle-down"><!-- --></span></a>
+              <div class="mm-category-content">
+                <a href="/trends-insights/reports/future-of-climate-tech/">Future of Climate Tech</a>
+                <a href="/trends-insights/reports/fintech-industry-report/">Future of Fintech</a>
+                <a href="/trends-insights/reports/healthcare-investments-and-exits/">Healthcare Investments and Exits</a>
+                <a href="/trends-insights/reports/healthtech-trends-report/">Future of Healthtech</a>
+                <a href="/trends-insights/reports/state-of-the-markets-report/">State of the Markets</a>
+                <a href="/trends-insights/reports/wine-report/">State of the Wine Industry</a>
+                <a href="/trends-insights/reports/womens-health-report/">Innovation in Women&apos;s Health</a>
+                <a class="bold" href="/trends-insights/signature-research/">View All Reports</a>
+              </div>
+            </div>
+            <div class="mm-category">
+              <a href="#" class="mm-link-category">PERSPECTIVES AND INSIGHTS<span class="icon far fa-angle-down"><!-- --></span></a>
+              <div class="mm-category-content">
+                <a href="/foreign-exchange-advisory/">Foreign Exchange Advisory</a>
+                <a href="/business-growth/">Business Growth</a>
+                <a href="/market-insights/">Market Insights</a>
+                <a href="/industry-insights/">Industry Insights</a>
+                <a href="/startup-insights/">Startup Insights</a>
+                <a href="/commercial-cards-insights/">Commercial Cards Insights</a>
+                <a href="/business-growth/treasury-management/">Treasury Management Insights</a>
+                <a class="bold" href="/trends-insights/perspectives/">View All Insights</a>
+              </div>
+            </div>
+            <div class="mm-category">
+              <a href="#" class="mm-link-category">MORE<span class="icon far fa-angle-down"><!-- --></span></a>
+              <div class="mm-category-content">
+                <a href="/success-stories/case-studies/">Case Studies</a>
+                <a href="/events/">Events &amp; Sponsorships</a>
+              </div>
+            </div>
+            <div class="mm-category">
+              <a href="#" class="mm-link-category">PRIVATE FUNDS<span class="icon far fa-angle-down"><!-- --></span></a>
+              <div class="mm-category-content">
+                <a href="/trends-insights/reports/global-fund-banking-outlook-report/">Global Fund Banking Outlook</a>
+                <a href="/private-funds-cfo-insights/">Private Funds CFO Insights</a>
+              </div>
+            </div>
+          </div>
+          <div class="mmenu about hidden">
+            <a href="#" data-ref="about-return" class="mm-link-return"><span class="icon far fa-angle-left"><!-- --></span>About</a>
+            <div class="mm-link"><a href="/about-svb/">About SVB</a></div>
+            <div class="mm-link"><a href="/contact/">Contact Us</a></div>
+            <div class="mm-link"><a href="/careers/">Careers</a></div>
+            <div class="mm-link"><a href="/locations/">Locations</a></div>
+            <div class="mm-link"><a href="/newsroom/">Newsroom</a></div>
+            <div class="mm-link"><a href="/about-svb/catalyst-2045/">Catalyst 2045</a></div>
+            <div class="mm-link"><a href="/about-svb/recent-transactions/">Recent Transactions</a></div>
+            <div class="mm-link"><a href="/about-svb/svb-client-faqs/">SVB FAQ</a></div>
+          </div>
+        </div>
+      </div>
+      <!-- end mobile -->        </div>
+        <!-- end grid-wrap -->
+    </nav>
+    <!-- end main-nav code -->
+
+
+
+<script language="javascript">
+    var modalSearch;
+
+    function ShowSpellcheck(spellchecks) {
+        if ((spellchecks != undefined) && (spellchecks.length > 0)) {
+            var list = [];
+            $.each(spellchecks, function (index, value) {
+                list.push("<em><a href=\"javascript:void(0)\" onclick=\"modalSearch.SearchTerm('" + value.suggestion + "')\">" + value.suggestion + "</a></em>");
+            });
+            if (list.length > 0) {
+                $("#mdl-spelling-suggestions").html("<span>Spelling suggestions</span>" + ": " + list.join("; "));
+            }
+        }
+    }
+
+    function ShowRelatedQueries(didYouMeans) {
+        if ((didYouMeans != undefined) && (didYouMeans.length > 0)) {
+            var list = [];
+            $.each(didYouMeans, function (index, value) {
+                list.push("<em><a href=\"javascript:void(0)\" onclick=\"modalSearch.SearchTerm('" + value.suggestion + "')\">" + value.suggestion + "</a></em>");
+            });
+            if (list.length > 0) {
+                $("#mdl-didyoumean").html("<span>People also searched for</span>" + ": " + list.join("; "));
+            }
+        }
+    }
+
+    $(document).ready(function () {
+        modalSearch = new $.SearchModal({ site: "US" });
+    });
+</script>
+
+<div class="search-modal" role="search">
+    <div class="search-inner">
+        <div class="search-bar-wrap">
+            <div class="search-bar">
+                <div class="search-bar-inner">
+                    <div class="search-logo">
+                        <a class="link-home" href="/" target="_self" title="Silicon Valley Bank - Home"><img src="https://www.svb.com/SVB_Assets/images/SVB_SiliconValleyBank_FCB_Horizontal_logo.svg" alt="Silicon Valley Bank a Division of First Citizens Bank"></a>
+                    </div>
+                    <div class="search-bar-grid">
+                        <span class="n5b-search-icon far fa-search"><!-- --></span> <span><input id="searchBarInput" class="search-bar-input" type="text" placeholder="Search svb.com" aria-label="Search svb.com"></span>
+                    </div>
+                    <a href="#" class="search-bar-close" title="Close"><span class="close-icon fal fa-times"></span></a>
+                </div>
+            </div>
+        </div>
+        <div class="x site-search">
+            <div class="m">
+                <div class="m-inner">
+                    <div id="search-intro" class="search-intro">Find anything about our product, search our documentation, and more. Enter a query in the search input above, and results will be displayed as you type.</div>
+                    <div id="mdl-didyoumean" class="also-searched text-xsmall" tabindex="-1"></div>
+                    <div id="mdl-spelling-suggestions" class="also-searched text-xsmall"></div>
+                    <div id="mdl-search-results">
+                        <div class="grid-main">
+                            <div class="grid-left">
+                                <div id="mdl-content-loading" class="hidden" style="display: none;">
+                                    <div style="margin:10px auto;width:110px;color:green">Searching... <img src="/SVB_Assets/images/loading_small.gif" width="16" height="16" alt="Loading content"></div>
+                                </div>
+                                <ul id="mdl-content-search-results">
+                                </ul>
+                            </div>
+                            <div id="mdl-people-container" style="display:none;">
+                                <div id="mdl-users-loading" class="hidden" style="display: none;">
+                                    <div style="margin:10px auto;width:110px;color:green">Searching... <img src="/SVB_Assets/images/loading_small.gif" width="16" height="16" alt="Loading content"></div>
+                                </div>
+                                <div id="mdl-people-title" class="grid-right-title" tabindex="-1">People</div>
+                                <div id="mdl-user-search-results" class="grid-right">
+                                </div>
+                            </div>
+                            <div id="mdl-content-pages" class="counter counter-left text-xsmall">
+                            </div>
+                            <div id="mdl-users-pages" class="counter counter-right text-xsmall">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script id="modalContentTemplate" type="text/x-handlebars-template">
+    {{#each contentList}}
+    <li>
+        <a href="{{link}}" {{#if target}} {{target}} {{/if}} {{#if isbestbet}} class="row-highlight" {{/if}}>
+            <span class="results-title">{{#if isbestbet}}<span class="fal fa-star">&nbsp;</span>{{/if}}{{{title}}}</span>
+            {{#if shortlink}}<span class="results-url">{{shortlink}}</span>{{/if}}
+            <span class="results-descrip">
+                {{{summary}}}
+            </span>
+        </a>
+    </li>
+    {{/each}}
+</script>
+
+<script id="modalUserTemplate" type="text/x-handlebars-template">
+    {{#each userList}}
+    <a href="{{profileLink}}" class="pcard pcard-xl">
+        <img class="pcard-img fade-in" src="{{avatar}}" alt="{{displayName}}" />
+        <span class="pcard-right">
+            <span class="pcard-name text-large">{{displayName}}</span> <span class="pcard-title text-small">{{title}}{{#if companyName}}, {{companyName}}{{/if}}</span>
+        </span>
+    </a>
+    {{/each}}
+</script>    <!-- END: 'Navigation' -->
+</div>
+
+
+
+        <main class="main-block" id="maincontent">
+            
+
+
+        <div class="x g2 reports-template">
+            <div class="grid grid-cols-max-1fr gap-0">
+                <div class="reports-left theme-navy-900 bg-theme padding-h-24 padding-v-64">
+                    <nav class="rl-inner grid gap-16 ">
+                        <span class="bold">State of the Markets</span>
+                            <div class="navigate">
+                                <span class="text-xsmall">CURRENTLY READING</span>
+                                <div class="navigate-select relative text-xsmall margin-t-8">
+                                    <a href="javascript:void(0)" class="block uppercase padding-l-2 padding-y-2 margin-t-2 relative x-nu" title="Select">SOTM H2 2025 <span class="caret far fa-angle-down absolute right-0 pt-1 pr-4"><!-- --></span></a>
+                                    <div class="navigate-menu w-100 absolute z-10">
+                                            <a href="/trends-insights/reports/state-of-the-markets-report/" class="block uppercase padding-left-2 padding-y-2 bold text-navy-900 x-nu">SOTM H1 2025</a>
+                                            <a href="/trends-insights/reports/state-of-the-markets-report/h2-2024/" class="block uppercase padding-left-2 padding-y-2 bold text-navy-900 x-nu">SOTM H2 2024</a>
+                                            <a href="/trends-insights/reports/state-of-the-markets-report/h1-2024/" class="block uppercase padding-left-2 padding-y-2 bold text-navy-900 x-nu">SOTM H1 2024</a>
+                                            <a href="/trends-insights/reports/state-of-the-markets-report/h2-2023/" class="block uppercase padding-left-2 padding-y-2 bold text-navy-900 x-nu">SOTM H2 2023</a>
+                                            <a href="/trends-insights/reports/state-of-the-markets-report/h1-2023/" class="block uppercase padding-left-2 padding-y-2 bold text-navy-900 x-nu">SOTM H1 2023</a>
+                                            <a href="/trends-insights/reports/state-of-the-markets-report/h2-2022/" class="block uppercase padding-left-2 padding-y-2 bold text-navy-900 x-nu">SOTM H2 2022</a>
+                                            <a href="/trends-insights/reports/state-of-the-markets-report/h1-2022/" class="block uppercase padding-left-2 padding-y-2 bold text-navy-900 x-nu">SOTM H1 2022</a>
+                                    </div>
+                                </div>
+                            </div>
+                            <nav class="rli-main margin-t-16">
+                                Jump to...
+                                <ul class="list-jump list-none relative padding-0">
+                                            <li><a href="#KeyTakeaways" class="link link-0 relative block x-nu selected" data-ajax="false">Key Takeaways</a></li>
+                                                <li>
+                                                    <a href="#Download" data-ajax="false" class="link link-1 relative block x-nu ">
+                                                        Download
+                                                    </a>
+                                                </li>
+                                                <li>
+                                                    <a href="#TheData" data-ajax="false" class="link link-2 relative block x-nu ">
+                                                        The Data
+                                                    </a>
+                                                </li>
+                                                <li>
+                                                    <a href="#Reports" data-ajax="false" class="link link-3 relative block x-nu ">
+                                                        Reports
+                                                    </a>
+                                                </li>
+                                                <li>
+                                                    <a href="#Authors" data-ajax="false" class="link link-4 relative block x-nu ">
+                                                        Authors
+                                                    </a>
+                                                </li>
+                                </ul>
+                            </nav>
+                        <div class="rl-share margin-v-32">
+                            <div class="share-title text-xsmall">Share This Report</div>
+                            <div class="share-grid grid grid-cols-max-content gap-116 margin-t-8">
+                                <a href="https://twitter.com/share?url=https%3A%2F%2Fwww.svb.com%2Ftrends-insights%2Freports%2Fstate-of-the-markets-report%2F&amp;related=SVB_Financial&amp;text=Silicon&#x2B;Valley&#x2B;Bank%27s&#x2B;comprehensive&#x2B;innovation&#x2B;economy&#x2B;outlook&#x2B;analysis.&#x2B;H2&#x2B;2025&#x2B;insights&#x2B;on&#x2B;VC&#x2B;investment&#x2B;trends%2C&#x2B;AI&#x2B;funding%2C&#x2B;startup&#x2B;growth&#x2B;and&#x2B;market&#x2B;forecasts.&#x2B;" class="icon-twitter external x-nu fa-fw" target="_blank" title="Twitter" rel="noopener noreferrer">&nbsp;</a>
+                                <a href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3A%2F%2Fwww.svb.com%2Ftrends-insights%2Freports%2Fstate-of-the-markets-report%2F" class="fab fa-linkedin-in external x-nu fa-fw" target="_blank" title="LinkedIn" rel="noopener noreferrer">&nbsp;</a>
+                                <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.svb.com%2Ftrends-insights%2Freports%2Fstate-of-the-markets-report%2F" title="Facebook" class="fab fa-facebook-square external x-nu fa-fw" target="_blank" rel="noopener noreferrer">&nbsp;</a>
+                                    <a title="Email" class="fal fa-envelope x-nu fa-fw" href="mailto:%20?subject=Thought you'd enjoy this article!&body=State%20of%20the%20Markets%20H2%202025%20SVB%E2%80%99s%20Innovation%20Economy%20Outlook%0A%0AAfter%20a%20period%20of%20cost%20cutting%2C%20headcount%20reductions%20and%20painful%20austerity%20measures%2C%20company%20operations%20appear%20to%20have%20reached%20a%20new%20stable%20equilibrium.%20Still%2C%20founders%20are%20navigating%20market%20volatility%20caused%20by%20macroeconomic%20uncertainty%2C%20even%20as%20they%20continue%20to%20adapt%20to%20the%20recalibrated%20innovation%20economy.%20Against%20this%20backdrop%2C%20AI%20remains%20the%20driving%20force%20of%20US%20venture%20capital%20investment.%20%0AKey%20takeaways%3A%0AThe%20amount%20burned%20by%20the%20median%20Series%20A%20AI%20company%20to%20gain%20%241%20of%20new%20revenue.%0AThe%20number%20of%20US%20VC-backed%20tech%20IPOs%20in%20the%20first%20half%20of%202025.%0AThe%20portion%20of%20US%20VC%20investment%20from%20deals%20with%20the%20six%20largest%20funds.%0A%0AClick%20here%20to%20read%20the%20full%20article.%0Ahttps%3A%2F%2Fwww.svb.com%2Ftrends-insights%2Freports%2Fstate-of-the-markets-report%2F%0A" target="_blank" rel="noopener noreferrer">&nbsp;</a>
+                            </div>
+                        </div>
+                    </nav>
+                </div>
+                <div class="reports-right">
+                    <div class="reports-mobile-nav padding-8 ">
+                        <div class="rmn-grid grid">
+                            <div class="navbarleft">
+                                    <div class="breadcrumb" role="navigation" aria-label="Breadcrumb">
+                                        <div class="caret caret-left"><!-- --></div>
+                                        <div class="breadcrumb-inner">
+                                                <span class="caret caret-right"><!-- --></span>
+                                                <a href="/trends-insights/reports/state-of-the-markets-report/">State of the Markets</a>
+                                        </div>
+                                    </div>
+                            </div>
+                            <div class="navbar-right padding-r-16">
+                                <a href="#" class="jump-button link-button primary-white text-xsmall"><span class="inner"><span class="link-button-text">Jump To</span><span class="link-button-icon far fa-angle-down"><!-- --></span></span></a>
+                            </div>
+                        </div>
+                    </div>
+                    <section class="x g2 module-reports-hero">
+                        <div class="m theme-navy-900" style="background-blend-mode: multiply; background-position: center; background-image:  url(/cdn-cgi/image/format=auto,quality=65,fit=scale-down,width=1920/globalassets/library/jc-images/svb_sotm_h2_2025_image_01_1200x627-copy.png); background-size: cover;">
+                            <div class="m-inner grid">
+                                <div>
+                                        <div class="breadcrumb" role="navigation" aria-label="Breadcrumb">
+                                            <div class="caret caret-left"><!-- --></div>
+                                            <div class="breadcrumb-inner">
+                                                        <a href="/trends-insights/signature-research/" target="_blank">All Reports</a>
+                                                        <span class="caret caret-right"><!-- --></span>
+                                                        <a href="/trends-insights/reports/state-of-the-markets-report/"  class="x-nu" style="">State of the Markets</a>
+                                            </div>
+                                        </div>
+                                            <h1 class="display fade-in">
+<p class="margin-v-0">State of the Markets</p>
+<p class="h2 margin-v-0">H2 2025<br /><span class="text-xlarge">SVB&rsquo;s Innovation Economy Outlook</span></p>                                            </h1>
+                                </div>
+
+                                    <div class="margin-t-24">
+
+
+
+<script type="application/ld+json">
+        {
+        "@type": "DigitalDocument",
+        "name": "state of the markets h2 2025 final",
+        "author": "Silicon Valley Bank",
+        "url" : "https://www.svb.com/globalassets/trendsandinsights/reports/sotm/state-of-the-markets-h2-2025-final.pdf",
+        "hasDigitalDocumentPermission": [{
+            "@type": "DigitalDocumentPermission",
+            "permissionType": "https://schema.org/ReadPermission",
+            "grantee": {
+                "@type": "Audience",
+                "audienceType": "public"
+                }
+            }
+        ]}
+</script>
+
+    <a href="/globalassets/trendsandinsights/reports/sotm/state-of-the-markets-h2-2025-final.pdf" target="_blank" class="link-button secondary-blue  " data-button-type="cta" >
+        <span class="inner">
+            Download now
+                <span class="fal fa-cloud-download"><!-- --></span>
+        </span>
+    </a>
+                                    </div>
+
+<div><div class="block  modalblock  ">
+
+
+<div class="x" style="display:none;">
+    
+
+
+
+
+<!--<div class="x inline-block" style="display:none !important;"><a href="#" class="xmodal-open" data-modal="xmodal-117748">Click this link to open</a></div>-->
+<section class="x gate-form-ex" id="117748" style="display:none;">
+    <div class="m">
+        <div class="m-inner">
+            <div id="xmodal-117748" class="x xmodal-v1">
+                <div class="xmodal hidden">
+                    <a href="#" class="xmodal-bgclose" aria-label="Close Dialog"><!-- --></a>
+                    <div class="xmodal-inner">
+                        <a class="xmodal-close text-gray-200" title="Close"><span class="far fa-times"><!-- --></span></a>
+                        
+<div class="block  marketoformcomponentblock  ">
+
+
+<div id="Marketo-Form-Component-Block_gl-demandgen-extended_117750" class="x form-wrap" style="max-width: 600px;">
+    <form id="Marketo-Form-Component-Block_gl-demandgen-extended_117750-form" data-is-china-required="True" data-china-consent-one="By ticking this box, you acknowledge and consent to authorize SVB to disclose your Personal Data to third parties in accordance with this &lt;a href=&quot;https://www.svb.com/privacy-notice/&quot;&gt;Privacy Policy&lt;/a&gt;." data-china-consent-two="By ticking this box, you acknowledge and consent to authorize SVB to transfer your Personal Data overseas in accordance with this &lt;a href=&quot;https://www.svb.com/privacy-notice/&quot;&gt;Privacy Policy&lt;/a&gt;." data-china-consent-three="" class="xForm" action="" method="GET" novalidate="novalidate" name="Marketo-Form-Component-Block_gl-demandgen-extended_117750-form" data-cmktoforminstance="Marketo-Form-Component-Block_gl-demandgen-extended_117750-mktoForm_2613" data-cmktoformtype="GL_DemandGen_Extended" data-trackingname="Gated Content Download" data-formversion="">
+        <div class="form-inner form-page form-page-2">
+            <div class="form-head align-center">
+                        <h3>Download the State of the Markets</h3>
+                        <hr class="hr" />
+                    <div>
+Please provide your information to download the report.                    </div>
+            </div>
+            <div class="form-body form-grid form-cols-2">
+                <div class="form-cell span-2"><!-- --></div>
+                <div class="form-cell"><input id="firstname" class="input-text" autocomplete="given-name" name="fname" required="required" type="text" value="" placeholder=" " data-msg="Your first name is required." /> <label class="input-text-label" for="firstname">First Name</label> <span class="closex far fa-times text-error-500"><!-- --></span></div>
+                <div class="form-cell"><input id="lastname" class="input-text" autocomplete="family-name" name="lname" required="required" type="text" value="" placeholder=" " data-msg="Please enter your last name." /> <label class="input-text-label" for="lastname">Last Name</label> <span class="closex far fa-times text-error-500"><!-- --></span></div>
+                <div class="form-cell "><input id="email" class="input-text" autocomplete="email" name="email" required="required" type="text" value="" placeholder=" " data-msg="Please enter a valid email address." /> <label class="input-text-label" for="email">Email Address</label> <span class="closex far fa-times text-error-500"><!-- --></span></div>
+                <div class="form-cell type-search-dropdown">
+                    <input id="jobtitle" class="input-text type-search" autocomplete="off" name="jobtitle" data-mkto_field="Title" required="required" type="text" placeholder="" data-msg="The job title is required." /> <label class="input-text-label" for="jobtitle">Job Title</label> <span class="caret far fa-angle-down"><!-- --></span>
+                    <ul class="type-search-list text-xsmall">
+                        <li>C-Level Executive (CEO, COO, CFO, CMO, CRO, CDO, ...)</li>
+                        <li>Financial Executive</li>
+                        <li>Director</li>
+                        <li>Founding Team</li>
+                        <li>Investor</li>
+                        <li>Administrative or Accounting Role</li>
+                        <li>Product Executive</li>
+                        <li>Other</li>
+                    </ul>
+                </div>
+                <div class="form-cell type-search-dropdown country span-2">
+                    <input id="country" class="input-text type-search" autocomplete="country-name" name="country" required="required" type="text" value="" placeholder="" data-msg="Please select a country." /> <label class="input-text-label" for="country">Country of Residence</label> <span class="caret far fa-angle-down"><!-- --></span>
+                    <ul class="type-search-list text-xsmall">
+                        <li>United States</li>
+                        <li>Afghanistan</li>
+                        <li data-region="emea">Albania</li>
+                        <li data-region="emea">Algeria</li>
+                        <li>American Samoa</li>
+                        <li data-region="emea">Andorra</li>
+                        <li data-region="emea">Angola</li>
+                        <li>Anguilla</li>
+                        <li>Antarctica</li>
+                        <li>Antigua and Barbuda</li>
+                        <li>Argentina</li>
+                        <li>Armenia</li>
+                        <li>Aruba</li>
+                        <li>Ascension</li>
+                        <li>Australia</li>
+                        <li data-region="emea">Austria</li>
+                        <li>Azerbaijan</li>
+                        <li>Bahamas</li>
+                        <li data-region="emea">Bahrain</li>
+                        <li>Bangladesh</li>
+                        <li>Barbados</li>
+                        <li data-region="emea">Belarus</li>
+                        <li data-region="emea">Belgium</li>
+                        <li>Belize</li>
+                        <li data-region="emea">Benin</li>
+                        <li>Bermuda</li>
+                        <li>Bhutan</li>
+                        <li>Bolivia</li>
+                        <li data-region="emea">Bosnia and Herzegovina</li>
+                        <li data-region="emea">Botswana</li>
+                        <li>Brazil</li>
+                        <li>British Virgin Islands</li>
+                        <li>Brunei</li>
+                        <li data-region="emea">Bulgaria</li>
+                        <li data-region="emea">Burkina Faso</li>
+                        <li data-region="emea">Burundi</li>
+                        <li>Cambodia</li>
+                        <li data-region="emea">Cameroon</li>
+                        <li>Canada</li>
+                        <li data-region="emea">Cape Verde Islands</li>
+                        <li>Cayman Islands</li>
+                        <li data-region="emea">Central African Republic</li>
+                        <li data-region="emea">Chad</li>
+                        <li>Chatman Island (New Zealand)</li>
+                        <li>Chile</li>
+                        <li>China</li>
+                        <li>Christmas Island</li>
+                        <li>Cocos (Keeling) Islands</li>
+                        <li>Colombia</li>
+                        <li data-region="emea">Comoros</li>
+                        <li>Congo</li>
+                        <li>Cook Islands</li>
+                        <li>Costa Rica</li>
+                        <li data-region="emea">Croatia</li>
+                        <li>Cuba</li>
+                        <li>Curacao</li>
+                        <li data-region="emea">Cyprus</li>
+                        <li data-region="emea">Czech Republic</li>
+                        <li data-region="emea">Denmark</li>
+                        <li data-region="emea">Djibouti</li>
+                        <li>Dominica</li>
+                        <li data-region="emea">Dominican Republic</li>
+                        <li>Easter Island</li>
+                        <li>Ecuador</li>
+                        <li data-region="emea">Egypt</li>
+                        <li>El Salvador</li>
+                        <li data-region="emea">Equatorial Guinea</li>
+                        <li data-region="emea">Eritrea</li>
+                        <li data-region="emea">Estonia</li>
+                        <li data-region="emea">Ethiopia</li>
+                        <li>Falkland Islands</li>
+                        <li data-region="emea">Faroe Islands</li>
+                        <li>Federated States of Micronesia</li>
+                        <li>Fiji</li>
+                        <li data-region="emea">Finland</li>
+                        <li data-region="emea">France</li>
+                        <li>French Antilles</li>
+                        <li>French Guyana</li>
+                        <li>French Polynesia</li>
+                        <li>Fyrom (Macedonia)</li>
+                        <li data-region="emea">Gabon</li>
+                        <li data-region="emea">Gambia</li>
+                        <li data-region="emea">Georgia</li>
+                        <li data-region="emea">Germany</li>
+                        <li data-region="emea">Ghana</li>
+                        <li data-region="emea">Gibraltar</li>
+                        <li data-region="emea">Greece</li>
+                        <li>Greenland</li>
+                        <li>Grenada and Carriacuou</li>
+                        <li>Grenadin Islands</li>
+                        <li>Guadeloupe</li>
+                        <li>Guam</li>
+                        <li>Guantanamo Bay</li>
+                        <li>Guatemala</li>
+                        <li data-region="emea">Guernsey, C.I.</li>
+                        <li>Guiana</li>
+                        <li data-region="emea">Guinea</li>
+                        <li data-region="emea">Guinea-Bissau</li>
+                        <li>Guyana</li>
+                        <li>Haiti</li>
+                        <li>Honduras</li>
+                        <li>Hong Kong</li>
+                        <li data-region="emea">Hungary</li>
+                        <li data-region="emea">Iceland</li>
+                        <li>India</li>
+                        <li>Indonesia</li>
+                        <li data-region="emea">Iran</li>
+                        <li data-region="emea">Iraq</li>
+                        <li data-region="emea">Ireland</li>
+                        <li data-region="emea">Isle of Man</li>
+                        <li data-region="emea">Israel</li>
+                        <li data-region="emea">Italy</li>
+                        <li data-region="emea">Ivory Coast</li>
+                        <li>Jamaica</li>
+                        <li>Japan</li>
+                        <li data-region="emea">Jersey</li>
+                        <li>Jerusalem</li>
+                        <li data-region="emea">Jordan</li>
+                        <li>Kazakhstan</li>
+                        <li data-region="emea">Kenya</li>
+                        <li>Kiribati</li>
+                        <li>Korea (Rep.)</li>
+                        <li>Korea, Democratic Peoples Republic of</li>
+                        <li>Kuwait</li>
+                        <li>Kyrgyzstan</li>
+                        <li>Laos</li>
+                        <li data-region="emea">Latvia</li>
+                        <li data-region="emea">Lebanon</li>
+                        <li data-region="emea">Lesotho</li>
+                        <li data-region="emea">Liberia</li>
+                        <li data-region="emea">Libya</li>
+                        <li data-region="emea">Liechtenstein</li>
+                        <li data-region="emea">Lithuania</li>
+                        <li data-region="emea">Luxembourg</li>
+                        <li>Macau</li>
+                        <li data-region="emea">Madagascar</li>
+                        <li data-region="emea">Malawi</li>
+                        <li>Malaysia</li>
+                        <li>Maldives</li>
+                        <li data-region="emea">Mali</li>
+                        <li data-region="emea">Malta</li>
+                        <li>Mariana Islands</li>
+                        <li>Marshall Islands</li>
+                        <li>Martinique</li>
+                        <li data-region="emea">Mauritania</li>
+                        <li data-region="emea">Mauritius</li>
+                        <li>Mayotte</li>
+                        <li>Mexico</li>
+                        <li>Midway Islands</li>
+                        <li>Miquelon</li>
+                        <li data-region="emea">Monaco</li>
+                        <li>Mongolia</li>
+                        <li data-region="emea">Montenegro</li>
+                        <li>Montserrat</li>
+                        <li data-region="emea">Morocco</li>
+                        <li data-region="emea">Mozambique</li>
+                        <li>Myanmar</li>
+                        <li data-region="emea">Namibia</li>
+                        <li>Nauru</li>
+                        <li>Nepal</li>
+                        <li>Neth. Antilles</li>
+                        <li data-region="emea">Netherlands</li>
+                        <li>Nevis</li>
+                        <li>New Caledonia</li>
+                        <li>New Zealand</li>
+                        <li>Nicaragua</li>
+                        <li data-region="emea">Niger</li>
+                        <li data-region="emea">Nigeria</li>
+                        <li>Niue</li>
+                        <li>Norfolk Island</li>
+                        <li data-region="emea">Norway</li>
+                        <li data-region="emea">Oman</li>
+                        <li>Pakistan</li>
+                        <li>Palau</li>
+                        <li data-region="emea">Palistinian Territories</li>
+                        <li>Panama</li>
+                        <li>Papua New Guinea</li>
+                        <li>Paraguay</li>
+                        <li>Peru</li>
+                        <li>Philippines</li>
+                        <li data-region="emea">Poland</li>
+                        <li data-region="emea">Portugal</li>
+                        <li>Principe</li>
+                        <li>Puerto Rico</li>
+                        <li data-region="emea">Qatar</li>
+                        <li>Republic of Macedonia</li>
+                        <li>Republic of Moldova</li>
+                        <li>Reunion Island</li>
+                        <li data-region="emea">Romania</li>
+                        <li>Russia</li>
+                        <li data-region="emea">Rwanda</li>
+                        <li>Saint Martin</li>
+                        <li>Saipan</li>
+                        <li data-region="emea">San Marino</li>
+                        <li data-region="emea">Sao Tome and Principe</li>
+                        <li data-region="emea">Saudi Arabia</li>
+                        <li data-region="emea">Senegal Republic</li>
+                        <li data-region="emea">Serbia and Montenegro</li>
+                        <li>Seychelles</li>
+                        <li>Sierra Leone</li>
+                        <li>Singapore</li>
+                        <li>Sint Maarten</li>
+                        <li data-region="emea">Slovakia</li>
+                        <li data-region="emea">Slovenia</li>
+                        <li>Solomon Islands</li>
+                        <li data-region="emea">Somalia</li>
+                        <li data-region="emea">South Africa</li>
+                        <li data-region="emea">Spain</li>
+                        <li>Sri Lanka</li>
+                        <li>St Pierre et Miquelon</li>
+                        <li>St. Helena</li>
+                        <li>St. Kitts</li>
+                        <li>St. Lucia</li>
+                        <li>St. Vincent</li>
+                        <li data-region="emea">Sudan</li>
+                        <li>Suriname</li>
+                        <li data-region="emea">Swaziland</li>
+                        <li data-region="emea">Sweden</li>
+                        <li data-region="emea">Switzerland</li>
+                        <li data-region="emea">Syria</li>
+                        <li>Taiwan</li>
+                        <li>Tajikistan</li>
+                        <li data-region="emea">Tanzania</li>
+                        <li>Thailand</li>
+                        <li data-region="emea">Togo</li>
+                        <li>Tokelau</li>
+                        <li>Tonga</li>
+                        <li>Trinidad and Tobago</li>
+                        <li data-region="emea">Tunisia</li>
+                        <li data-region="emea">Turkey</li>
+                        <li>Turkmenistan</li>
+                        <li>Turks and Caicos Islands</li>
+                        <li>Tuvalu</li>
+                        <li>U.S. Virgin Islands</li>
+                        <li data-region="emea">Uganda</li>
+                        <li data-region="emea">Ukraine</li>
+                        <li data-region="emea">United Arab Emirates</li>
+                        <li data-region="emea">United Kingdom</li>
+                        <li>Uruguay</li>
+                        <li>Uzbekistan</li>
+                        <li>Vanuatu</li>
+                        <li data-region="emea">Vatican City</li>
+                        <li>Venezuela</li>
+                        <li>Vietnam</li>
+                        <li>Wake Island</li>
+                        <li>Wallis and Futuna Islands</li>
+                        <li data-region="emea">Western Samoa</li>
+                        <li data-region="emea">Yemen</li>
+                        <li>Yugoslavia</li>
+                        <li>Zaire</li>
+                        <li data-region="emea">Zambia</li>
+                        <li>Zanzibar</li>
+                        <li data-region="emea">Zimbabwe</li>
+                    </ul>
+                </div>
+                <div class="form-cell type-search-dropdown state">
+                    <input id="state" class="input-text type-search" autocomplete="address-level1" name="state" required="required" type="text" placeholder="" data-msg="Please select a state." /> <label class="input-text-label" for="state">State</label> <span class="caret far fa-angle-down"><!-- --></span>
+                    <ul class="type-search-list text-xsmall">
+                        <li>AK</li>
+                        <li>AL</li>
+                        <li>AR</li>
+                        <li>AZ</li>
+                        <li>CA</li>
+                        <li>CO</li>
+                        <li>CT</li>
+                        <li>DC</li>
+                        <li>DE</li>
+                        <li>FL</li>
+                        <li>GA</li>
+                        <li>HI</li>
+                        <li>IA</li>
+                        <li>ID</li>
+                        <li>IL</li>
+                        <li>IN</li>
+                        <li>KS</li>
+                        <li>KY</li>
+                        <li>LA</li>
+                        <li>MA</li>
+                        <li>MD</li>
+                        <li>ME</li>
+                        <li>MI</li>
+                        <li>MN</li>
+                        <li>MO</li>
+                        <li>MS</li>
+                        <li>MT</li>
+                        <li>NC</li>
+                        <li>ND</li>
+                        <li>NE</li>
+                        <li>NH</li>
+                        <li>NJ</li>
+                        <li>NM</li>
+                        <li>NV</li>
+                        <li>NY</li>
+                        <li>OH</li>
+                        <li>OK</li>
+                        <li>OR</li>
+                        <li>PA</li>
+                        <li>RI</li>
+                        <li>SC</li>
+                        <li>SD</li>
+                        <li>TN</li>
+                        <li>TX</li>
+                        <li>UT</li>
+                        <li>VA</li>
+                        <li>VT</li>
+                        <li>WA</li>
+                        <li>WI</li>
+                        <li>WV</li>
+                        <li>WY</li>
+                    </ul>
+                </div>
+                <div class="form-cell span-2"><!-- --></div>
+                <div class="form-cell span-2"><input id="org" class="input-text" autocomplete="organization" name="org" required="required" type="text" value="" placeholder=" " data-msg="The company name is required." /> <label class="input-text-label" for="org">Company Name</label> <span class="closex far fa-times text-error-500"><!-- --></span></div>
+
+                <div class="form-cell span-2">
+                    <div class="text-check-container">
+                        <div class="left"><input id="website" class="input-text" autocomplete="url" name="website" required="required" type="text" value="" placeholder=" " data-msg="Please enter a valid URL (http://www.website.com)." /> <label class="input-text-label" for="website">Company Website</label> <span class="closex far fa-times text-error-500"><!-- --></span></div>
+                        <div class="right"><label class="checkbox-container">No Website <input id="no-website" class="input-checkbox" tabindex="-1" name="no-website" type="checkbox" value="off" /> <a href="#" class="checkmark" aria-checked="false" aria-hidden="true" tabindex="-1"><!-- --></a> </label></div>
+                    </div>
+                </div>
+                    <div class="form-cell type-search-dropdown">
+                        <input id="orgfirmtype" class="input-text type-search" autocomplete="off" name="orgfirmtype" data-mkto_field="firmType" required="required" type="text" placeholder="" data-msg="Firm Type." /> <label class="input-text-label" for="orgfirmtype">Firm Type</label> <span class="caret far fa-angle-down"><!-- --></span>
+                        <ul class="type-search-list text-xsmall">
+                            <li>Single Family Office</li>
+                            <li>Multi Family Office</li>
+                            <li>Placement Agent</li>
+                            <li>Startup</li>
+                            <li>Venture Fund</li>
+                            <li>Other</li>
+                        </ul>
+                    </div>
+                <div class="form-cell type-search-dropdown">
+                    <input id="orgyear" class="input-text type-search" autocomplete="off" name="orgyear" data-mkto_field="svb_yearfounded2" required="required" type="text" placeholder="" data-msg="Please select the year." /> <label class="input-text-label" for="orgyear">Year Incorporated/Founded</label> <span class="caret far fa-angle-down"><!-- --></span>
+                    <ul class="type-search-list text-xsmall">
+                        <li>Not Yet Incorporated</li>
+                                <li>2025</li>
+                                <li>2024</li>
+                                <li>2023</li>
+                                <li>2022</li>
+                                <li>2021</li>
+                                <li>2020</li>
+                                <li>2019</li>
+                                <li>2018</li>
+                                <li>2017</li>
+                                <li>2016</li>
+                                <li>2015</li>
+                                <li>2014</li>
+                                <li>2013</li>
+                                <li>2012</li>
+                                <li>2011</li>
+                                <li>2010</li>
+                                <li>2009</li>
+                                <li>2008</li>
+                                <li>2007</li>
+                                <li>2006</li>
+                                <li>2005</li>
+                                <li>2004</li>
+                                <li>2003</li>
+                                <li>2002</li>
+                                <li>2001</li>
+                                <li>2000</li>
+                                <li>1999</li>
+                                <li>1998</li>
+                                <li>1997</li>
+                                <li>1996</li>
+                                <li>1995</li>
+                                <li>1994</li>
+                                <li>1993</li>
+                                <li>1992</li>
+                                <li>1991</li>
+                                <li>1990</li>
+                                <li>1989</li>
+                                <li>1988</li>
+                                <li>1987</li>
+                                <li>1986</li>
+                                <li>1985</li>
+                                <li>1984</li>
+                                <li>1983</li>
+                                <li>1982</li>
+                                <li>1981</li>
+                                <li>1980</li>
+                                <li>1979</li>
+                                <li>1978</li>
+                                <li>1977</li>
+                                <li>1976</li>
+                                <li>1975</li>
+                                <li>1974</li>
+                                <li>1973</li>
+                                <li>1972</li>
+                                <li>1971</li>
+                                <li>1970</li>
+                                <li>1969</li>
+                                <li>1968</li>
+                                <li>1967</li>
+                                <li>1966</li>
+                                <li>1965</li>
+                                <li>1964</li>
+                                <li>1963</li>
+                                <li>1962</li>
+                                <li>1961</li>
+                                <li>1960</li>
+                                <li>1959</li>
+                                <li>1958</li>
+                                <li>1957</li>
+                                <li>1956</li>
+                                <li>1955</li>
+                                <li>1954</li>
+                                <li>1953</li>
+                                <li>1952</li>
+                                <li>1951</li>
+                                <li>1950</li>
+                                <li>1949</li>
+                                <li>1948</li>
+                                <li>1947</li>
+                                <li>1946</li>
+                                <li>1945</li>
+                                <li>1944</li>
+                                <li>1943</li>
+                                <li>1942</li>
+                                <li>1941</li>
+                                <li>1940</li>
+                                <li>1939</li>
+                                <li>1938</li>
+                                <li>1937</li>
+                                <li>1936</li>
+                                <li>1935</li>
+                                <li>1934</li>
+                                <li>1933</li>
+                                <li>1932</li>
+                                <li>1931</li>
+                                <li>1930</li>
+                                <li>1929</li>
+                                <li>1928</li>
+                                <li>1927</li>
+                                <li>1926</li>
+                                <li>1925</li>
+                                <li>1924</li>
+                                <li>1923</li>
+                                <li>1922</li>
+                                <li>1921</li>
+                                <li>1920</li>
+                                <li>1919</li>
+                                <li>1918</li>
+                                <li>1917</li>
+                                <li>1916</li>
+                                <li>1915</li>
+                                <li>1914</li>
+                                <li>1913</li>
+                                <li>1912</li>
+                                <li>1911</li>
+                                <li>1910</li>
+                                <li>1909</li>
+                                <li>1908</li>
+                                <li>1907</li>
+                                <li>1906</li>
+                                <li>1905</li>
+                                <li>1904</li>
+                                <li>1903</li>
+                                <li>1902</li>
+                                <li>1901</li>
+                                <li>1900</li>
+                    </ul>
+                </div>
+                <div class="form-cell type-search-dropdown">
+                    <input id="industry" class="input-text type-search" autocomplete="off" name="industry" readonly="readonly" data-mkto_field="svb_industryclassification" required="required" type="text" placeholder="" data-msg="Please indicate your company's industry." /> <label class="input-text-label" for="industry">Industry</label> <span class="caret far fa-angle-down"><!-- --></span>
+                    <ul class="type-search-list text-xsmall" data-limit="0">
+                        <li>Blockchain</li>
+                        <li>Biopharma</li>
+                        <li>Clean Technology</li>
+                        <li>Consumer Internet</li>
+                        <li>Consumer Technology</li>
+                        <li>Cryptocurrency</li>
+                        <li>Defense Tech</li>
+                        <li>Diagnostic/Tools</li>
+                        <li>Digital Health</li>
+                        <li>Ecommerce/DTC</li>
+                        <li>Emerging Managers</li>
+                        <li>Enterprise Software</li>
+                        <li>FinTech</li>
+                        <li>Frontier Tech</li>
+                        <li>Hardware & Infrastructure</li>
+                        <li>Healthcare Services</li>
+                        <li>Life Sciences & Healthcare</li>
+                        <li>Medical Devices</li>
+                        <li>Oil & Gas Technology</li>
+                        <li>Professional Services</li>
+                        <li>Private Equity</li>
+                        <li>Venture Capital</li>
+                        <li>Wine</li>
+                        <li>Other</li>
+                    </ul>
+                </div>
+                <div class="form-cell type-search-dropdown">
+                    <input id="orgstage" class="input-text type-search" autocomplete="off" name="orgstage" data-mkto_field="svb_mostrecentfunding" required="required" type="text" placeholder="" data-msg="Please indicate the company's funding stage." /> <label class="input-text-label" for="orgstage">Funding Stage</label> <span class="caret far fa-angle-down"><!-- --></span>
+                    <ul class="type-search-list text-xsmall">
+                        <li>Angel/Micro VC-Backed Investment</li>
+                        <li>Bootstrapped/Friends &amp; Family</li>
+                        <li>Initial Coin Offering</li>
+                        <li>Pre-funded</li>
+                        <li>Private Equity Backed</li>
+                        <li>Public Company</li>
+                        <li>Seed Investment – Institutional</li>
+                        <li>Series A</li>
+                        <li>Series B</li>
+                        <li>Series C or Later</li>
+                        <li>Other</li>
+                        <li>None</li>
+                    </ul>
+                </div>
+                    <div class="form-cell type-search-dropdown other-required">
+                        <input id="orgdecision" class="input-text type-search" autocomplete="off" name="orgdecision" data-mkto_field="svb_decisiontimeframe" required="required" type="text" placeholder="" data-msg="This information is required." /> <label class="input-text-label" for="orgdecision">What's your timing to select a bank?</label> <span class="caret far fa-angle-down">
+                        </span>
+                        <ul class="type-search-list text-xsmall">
+                            <li>Within a month</li>
+                            <li>More than a month</li>
+                            <li>No timeline</li>
+                        </ul>
+                    </div>
+                <div class="form-cell type-search-dropdown">
+                    <input id="orgprioryearrev" class="input-text type-search" autocomplete="off" name="orgprioryearrev" data-mkto_field="svb_revenuepreviousyear" required="required" type="text" placeholder="" data-msg="Please specify funding for the previous year." /> <label class="input-text-label" for="orgprioryearrev">Prior Year Revenue</label> <span class="caret far fa-angle-down"> </span>
+                    <ul class="type-search-list text-xsmall">
+                        <li>Pre-Revenue</li>
+                        <li>Less than $250K</li>
+                        <li>$250K - $499K</li>
+                        <li>$500K - $999K</li>
+                        <li>$1M - $4.9M</li>
+                        <li>$5M - $9.9M</li>
+                        <li>$10M - $50M</li>
+                        <li>Over $50M</li>
+                    </ul>
+                </div>
+                <div class="form-cell span-2"><input id="orgincubator" class="input-text type-search" autocomplete="off" name="orgincubator" required="required" type="text" placeholder="" data-msg="This information is required." /> <label class="input-text-label" for="orgincubator">Incubator/Accelerator</label> <span class="closex far fa-times text-error-500"><!-- --></span></div>
+
+                <div class="form-cell span-2"><!-- --></div>
+                <div class="form-cell span-2">
+                    <div class="relative">
+                        <textarea id="personalnote" class="input-textarea" maxlength="200" name="personalnote" rows="1" placeholder=" " data-msg="Please provide any additional personal notes."></textarea> <label class="input-textarea-label text-small" for="personalnote">Personal Note</label>
+                        <div class="content-sample text-small" style="white-space: pre-wrap;" aria-hidden="true"><!-- --></div>
+                        <div class="charcount-container absolute r-0"><span class="charcount text-tiny"><span class="chars">0</span> of <span class="count"><!-- --></span> characters</span></div>
+                    </div>
+                </div>
+                <div class="form-cell span-2"><!-- --></div>
+                <div class="form-cell span-2 text-small"><label class="checkbox-container large" for="contactme">I am interested in speaking with someone at SVB about the State of the Markets report <input id="contactme" class="input-checkbox" name="contactme" type="checkbox" /> <a href="#" class="checkmark"><!-- --></a> </label></div>
+            </div>
+            <div class="form-foot">
+                <div class="form-disclaimer legal auto-region ">
+                    <div class="auto-region">
+                        By providing your email address, you consent to receive emails from Silicon Valley Bank. You also consent to the
+                        terms of our&nbsp;<a href="/privacy-notice">Privacy Policy</a>. If you have privacy questions, you may contact us at
+                        <a href="mailto:privacy@svb.com">privacy@svb.com</a>. You can&nbsp;<a href="/email-subscription-manage" target="_blank">withdraw</a> your consent&nbsp;at any time.
+                    </div>
+                </div>
+                <div><a href="#" class="link-button primary-yellow form-submit"><span class="inner"><span>Submit</span><span class="fas fa-angle-right"><!-- --></span></span></a></div>
+
+                <!--<div class="form-disclaimer checkbox legal">By submitting my information, I acknowledge that I have read,
+                and agree to, SVB's <a href="/privacy-notice">Privacy Policy</a> and agree to receive communications from SVB regarding products and services.
+                Communications may be by email and phone. You may opt-out of receiving marketing communications at any time using
+                the methods described in SVB's <a href="/privacy-notice">Privacy Policy</a>.</div>/email-subscription-manage
+                <div> -->
+            </div>
+        </div>
+        <div class="form-inner form-page thank-you" data-is-thank-you-empty="False">
+            <div class="form-head align-center">
+                    <h3>Download State of the Markets Report </h3>
+                    <hr class="hr" />
+                <div class="thank-you-msg">
+<div class="tw">
+<div class="flex" style="justify-content: center;">
+<div class="flex xs:inline-flex p-8 bg-white-100 my-2 w-full sm:w-auto"><!-- button code to copy -->
+<div class="flex sm:inline-flex w-full sm:w-full">
+
+
+
+<script type="application/ld+json">
+        {
+        "@type": "DigitalDocument",
+        "name": "state of the markets h1 2023",
+        "author": "Silicon Valley Bank",
+        "url" : "https://www.svb.com/globalassets/trendsandinsights/reports/state-of-the-markets-h1-2023.pdf",
+        "hasDigitalDocumentPermission": [{
+            "@type": "DigitalDocumentPermission",
+            "permissionType": "https://schema.org/ReadPermission",
+            "grantee": {
+                "@type": "Audience",
+                "audienceType": "public"
+                }
+            }
+        ]}
+</script>
+
+    <a href="/globalassets/trendsandinsights/reports/state-of-the-markets-h1-2023.pdf" target="_blank" class="link-button primary-yellow  " data-button-type="cta" >
+        <span class="inner">
+            Download now
+        </span>
+    </a>
+
+</div>
+</div>
+</div>
+</div>
+<br />Thank you for your interest in insights from SVB! Explore other industry-leading technology and healthcare reports under <a href="/trends-insights/signature-research/" target="_blank" rel="noopener">Signature Research</a>.                </div>
+            </div>
+        </div>
+
+    </form>
+    <p class="error-msg hidden">
+        <strong><em>Oops, we ran into an error loading the form, please check back later.</em></strong>
+    </p>
+    <noscript>
+        Your browser does not support JavaScript!
+    </noscript>
+</div>
+
+<form class="mktoForm" data-formid="2613" style="display:none;" data-forminstance="Marketo-Form-Component-Block_gl-demandgen-extended_117750-mktoForm_2613"></form>
+
+<!-- end form content -->
+</div>
+                        <!-- end form-container -->
+                    </div>
+                    <!-- end xmodal-inner -->
+                </div>
+                <!-- end xmodal -->
+            </div>
+            <!-- end xmodal-v1 -->
+        </div>
+    </div>
+</section>
+</div></div></div>                            </div>
+                        </div>
+                    </section>
+                        <section id="KeyTakeaways" class="x g2 mr-key-takeaways">
+                            <div class="m theme-neutral-50 bg-theme">
+                                <div class="m-inner rtm-header">
+                                    <h2>Key Takeaways</h2>
+                                    <p>After a period of cost cutting, headcount reductions and painful austerity measures, company operations appear to have reached a new stable equilibrium. Still, founders are navigating market volatility caused by macroeconomic uncertainty, even as they continue to adapt to the recalibrated innovation economy. Against this backdrop, AI remains the driving force of US venture capital investment. </p>
+                                        <div class="grid grid-style-column grid-style-m-row margin-t-48">
+                                                <div class="kt-highlights">
+                                                    <h2><span class="h5 bold block text-navy-500">$5</span> <span class="text-large bold inline-block">The amount burned by the median Series A AI company to gain $1 of new revenue.</span></h2>
+                                                    <p>Burn multiples for AI companies are higher than other sectors, suggesting low-cost capital could be fueling inefficient growth.</p>
+                                                </div>
+                                                <div class="kt-highlights">
+                                                    <h2><span class="h5 bold block text-navy-500">10</span> <span class="text-large bold inline-block">The number of US VC-backed tech IPOs in the first half of 2025.</span></h2>
+                                                    <p>With the IPO window finally cracking open, it appears pent-up demand from investors will drive continued activity through the back half of the year &#x2014; provided the market avoids shakeups due to significant macro events.</p>
+                                                </div>
+                                                <div class="kt-highlights">
+                                                    <h2><span class="h5 bold block text-navy-500">1/3</span> <span class="text-large bold inline-block">The portion of US VC investment from deals with the six largest funds.</span></h2>
+                                                    <p>The increase from 10% in the period ending in November 2024 was driven almost exclusively by massive AI deals.</p>
+                                                </div>
+                                        </div>
+                                </div>
+                            </div>
+                        </section>
+                    <!--Content Area-->
+                    
+<div class="sidebar"><div class="block  headerblock  withsidebar">
+
+<!--Header Block-->
+    <section class="rtm rtm-header no-v-space" id="Download"></section>
+<!--End Header Block-->
+</div><div class="block  calltoactionbannerblock  withsidebar">
+
+
+<section id="cta_banner_117790" class="x g2 module-reports-cta">
+    <div class="m theme-white bg-theme">
+        <div class="m-inner align-center">
+            
+
+
+
+<div class="x">
+    <div class=" align-center HeaderComponent" id="HeaderComponent_0">
+
+        
+
+
+                    <h2>Read the full State of the Markets Report</h2>
+                <div class="text-large " style="margin-bottom:1rem;">
+<span class="TextRun SCXW40633541 BCX0" data-contrast="auto"><span class="NormalTextRun SCXW40633541 BCX0">Get the context behind the emerging trends shaping the innovation economy.</span></span><span class="EOP SCXW40633541 BCX0" data-ccp-props="{&quot;201341983&quot;:0,&quot;335559740&quot;:240}">&nbsp;</span>                </div>
+
+
+
+<div><div class="block  ctabuttoncomponentblock  ">
+
+
+<script type="application/ld+json">
+        {
+        "@type": "DigitalDocument",
+        "name": "state of the markets h2 2025 final",
+        "author": "Silicon Valley Bank",
+        "url" : "https://www.svb.com/globalassets/trendsandinsights/reports/sotm/state-of-the-markets-h2-2025-final.pdf",
+        "hasDigitalDocumentPermission": [{
+            "@type": "DigitalDocumentPermission",
+            "permissionType": "https://schema.org/ReadPermission",
+            "grantee": {
+                "@type": "Audience",
+                "audienceType": "public"
+                }
+            }
+        ]}
+</script>
+
+    <a href="/globalassets/trendsandinsights/reports/sotm/state-of-the-markets-h2-2025-final.pdf" target="_blank" class="link-button primary-yellow  " data-button-type="cta" >
+        <span class="inner">
+                <span class="far fa-cloud-download"><!-- --></span>
+            Get the report
+        </span>
+    </a>
+</div></div>    </div>
+</div>
+        </div>
+    </div>
+</section></div><div class="block  headerblock  withsidebar">
+
+<!--Header Block-->
+    <section id="TheData" class="x g2 module-reports-thedata">
+        <div class="m theme-neutral-50 bg-theme">
+            <div class="m-inner rtm-header  ">
+                <span class="h2" >The data</span>
+                <p>Leveraging proprietary data, our bi-annual report offers a unique, informed perspective on recent macroeconomic, fundraising and investment developments. </p>
+            </div>
+        </div>
+    </section>
+<!--End Header Block-->
+</div><div class="block  dynamicgridblock  withsidebar">
+
+
+<!--Dynamic Grid Block-->
+<section class="x g2">
+    <div class="m theme-white bg-theme">
+        <div class="m-inner  ">
+            <div class="grid grid-cols-2 grid-cols-m-1">
+                        <div class=" ">
+                                <div>
+
+<!--Text Content Block-->
+    <div class="eyebrow ">
+                <span class=" text-large"><!-- --></span>
+AI    </div>
+<h3>AI companies don&#x2019;t necessarily run efficiently</h3>
+
+<p class="">Revenue per employee is higher for non-AI companies than for AI companies, despite AI&#x2019;s promise of efficiency.  </p>
+    <div class="bg-neutral-100 font-bold padding-32 margin-v-16">
+        <p class="margin-v-4">Because AI companies have significant deal size and valuation premiums, they have a relatively low cost of capital &#x2014; so they tend to hire more employees and operate less efficiently. </p>
+    </div>
+
+
+                                </div>
+                        </div>
+                        <div class=" ">
+                                <div>
+
+
+<figure class="image"><img src="/cdn-cgi/image/format=auto,quality=65,fit=scale-down,width=1222/contentassets/d86432b9e7d540d68a1f13e3bf106aa2/svb_sotm_2h_25_ai_burning_cash_02_484x306.svg" alt="AI vs non-AI company cashes burned for revenue comparison chart" width="1222" height="773" />
+<figcaption><strong style="font-size: 1em;"><span data-contrast="none">Notes</span></strong><span style="font-size: 1em;" data-contrast="none">: Data reflects medians since 2022. AI is defined as companies leveraging AI or building AI products and services. Leverages PitchBook Data, Inc.&rsquo;s AI vertical definition.</span><span style="font-size: 1em;" data-ccp-props="{&quot;201341983&quot;:0,&quot;335559740&quot;:240}">&nbsp;</span>
+<p><strong><span data-contrast="none"><span>Source</span></span></strong><span data-contrast="none"><span>: </span><span>PitchBook</span><span> Data, Inc. and</span><span> </span><span>SVB proprietary data</span><span> and</span><span> a</span><span>nalysis.&nbsp;</span></span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559740&quot;:240}">&nbsp;</span></p>
+</figcaption>
+</figure>                                </div>
+                        </div>
+            </div>
+        </div>
+    </div>
+</section>
+</div><div class="block  dynamicgridblock  withsidebar">
+
+
+<!--Dynamic Grid Block-->
+<section class="x g2">
+    <div class="m theme-neutral-50 bg-theme">
+        <div class="m-inner  ">
+            <div class="grid grid-cols-2 grid-cols-m-1">
+                        <div class=" grid--reverse">
+                                <div>
+
+
+<figure class="image"><img src="/cdn-cgi/image/format=auto,quality=65,fit=scale-down,width=1440/contentassets/bce94bb88e584145ad93536d14b9259a/svb_sotm_2h_25_vc_backed_unicorns_02_484x306.svg" alt="US-VC Backed Tech Unicorns Tech unicorn growth vs profitability chart" width="1578" height="998" />
+<figcaption><strong style="font-size: 1em;"><span data-contrast="none">Notes</span></strong><span style="font-size: 1em;" data-contrast="none">: Data for the last 12 months ending 6/30/2025.&nbsp;</span><span style="font-size: 1em;" data-ccp-props="{&quot;201341983&quot;:0,&quot;335559740&quot;:240}">&nbsp;</span>
+<p><strong><span data-contrast="none"><span>Source</span></span></strong><span data-contrast="none"><span>: </span><span>PitchBook</span><span> Data, Inc</span><span>.</span><span>, S&amp;P Capital IQ</span><span> </span><span>and SVB </span><span>proprietary data and </span><span>analysis.</span></span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559740&quot;:240}">&nbsp;</span></p>
+</figcaption>
+</figure>                                </div>
+                        </div>
+                        <div class=" grid--reverse">
+                                <div>
+
+<!--Text Content Block-->
+    <div class="eyebrow ">
+                <span class=" text-large"><!-- --></span>
+UNICORNS     </div>
+<h3>Can unicorns find the exit? </h3>
+
+<p class="">While 72% of tech unicorns are growing year on year, only 21% of them are turning a profit. </p>
+    <div class="bg-neutral-100 font-bold padding-32 margin-v-16">
+        <p class="margin-v-4">Assuming $300M in revenue is the benchmark for a successful large tech IPO, 25% of unicorns could be ready to head for the public market. But only 5% also achieve the &#x201C;rule of 40&#x201D; benchmark, which combines revenue growth and profit margin. </p>
+    </div>
+
+
+                                </div>
+                        </div>
+            </div>
+        </div>
+    </div>
+</section>
+</div><div class="block  dynamicgridblock  withsidebar">
+
+
+<!--Dynamic Grid Block-->
+<section class="x g2">
+    <div class="m theme-white bg-theme">
+        <div class="m-inner  ">
+            <div class="grid grid-cols-2 grid-cols-m-1">
+                        <div class=" grid--reverse">
+                                <div>
+
+<!--Text Content Block-->
+    <div class="eyebrow ">
+                <span class=" text-large"><!-- --></span>
+TECH TRENDS     </div>
+<h3>AI and defense are hot podcast topics </h3>
+
+<p class="">Per SVB&#x2019;s new Podcast Sentiment Index, AI and defense are high on the list of hot topics among VC firms. This first-of-its-kind index draws from 3,200 venture podcast episodes.  </p>
+    <div class="bg-neutral-100 font-bold padding-32 margin-v-16">
+        <p class="margin-v-4">Podcasts offer a way to track emerging trends and identify key inflection points. For example, sentiment around AI rose sharply after ChatGPT was released and the momentum continues. Meanwhile, defense received a huge boost after Republicans swept the US elections. </p>
+    </div>
+
+
+                                </div>
+                        </div>
+                        <div class=" grid--reverse">
+                                <div>
+
+
+<figure class="image"><img src="/cdn-cgi/image/format=auto,quality=65,fit=scale-down,width=1440/contentassets/f207b1aafbda4f128427b2abe297e495/svb_sotm_2h_25_tech_trends_podcast_02_484x306.svg" alt="SVB VC podcast sentiment trends: AI and defense topics" width="1578" height="998" />
+<figcaption><strong style="font-size: 1em;"><span data-contrast="none">Notes</span></strong><span style="font-size: 1em;" data-contrast="none">: 1) The podcast sentiment index tracks the tone of 3,200 podcast episodes using FinBERT, a financial sentiment model. Topic mentions are based on keyword frequency across the same sample using a three-month moving average. </span><span style="font-size: 1em;" data-ccp-props="{&quot;201341983&quot;:0,&quot;335559740&quot;:240}">&nbsp;</span>
+<p><strong><span data-contrast="none"><span>Source</span></span></strong><span data-contrast="none"><span>: RSS feeds of podcasts, OpenAI Whisper transcriber, </span><span>FinBERT</span><span> (</span><span>ProsusAI</span><span>) and SVB analysis.</span></span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559740&quot;:240}">&nbsp;</span></p>
+</figcaption>
+</figure>                                </div>
+                        </div>
+            </div>
+        </div>
+    </div>
+</section>
+</div><div class="block  headerblock  withsidebar">
+
+<!--Header Block-->
+    <section class="rtm rtm-header no-v-space" id="Reports"></section>
+<!--End Header Block-->
+</div><div class="block  calltoactionbannerblock  withsidebar">
+
+
+<section id="cta_banner_145801" class="x g2 module-reports-cta">
+    <div class="m theme-white bg-theme">
+        <div class="m-inner align-center">
+            
+
+
+
+<div class="x">
+    <div class=" align-center HeaderComponent" id="HeaderComponent_0">
+
+        
+
+
+                    <h2>Download the State of the Markets Report</h2>
+                <div class="text-large " style="margin-bottom:1rem;">
+<span class="TextRun SCXW86481799 BCX0" data-contrast="auto"><span class="NormalTextRun SCXW86481799 BCX0">Get the context behind the emerging trends shaping the innovation economy.</span></span><span class="EOP SCXW86481799 BCX0" data-ccp-props="{&quot;201341983&quot;:0,&quot;335559740&quot;:240}">&nbsp;</span>                </div>
+
+
+
+<div><div class="block  ctabuttoncomponentblock  ">
+
+
+<script type="application/ld+json">
+        {
+        "@type": "DigitalDocument",
+        "name": "state of the markets h2 2025 final",
+        "author": "Silicon Valley Bank",
+        "url" : "https://www.svb.com/globalassets/trendsandinsights/reports/sotm/state-of-the-markets-h2-2025-final.pdf",
+        "hasDigitalDocumentPermission": [{
+            "@type": "DigitalDocumentPermission",
+            "permissionType": "https://schema.org/ReadPermission",
+            "grantee": {
+                "@type": "Audience",
+                "audienceType": "public"
+                }
+            }
+        ]}
+</script>
+
+    <a href="/globalassets/trendsandinsights/reports/sotm/state-of-the-markets-h2-2025-final.pdf" target="_blank" class="link-button secondary-blue  " data-button-type="cta" >
+        <span class="inner">
+            Get the report
+        </span>
+    </a>
+</div></div>    </div>
+</div>
+        </div>
+    </div>
+</section></div><div class="block  productcardsblock  withsidebar">
+
+
+<script>
+    $(document).ready(function () {
+        $.ProductCards("#product-cards-117798", { version: "fourcol" });
+    });
+</script>
+
+<!-- START: 'Product Cards' -->
+        <section id="product-cards-117798" class="x g2 module-reports-other">
+            <div class="m theme-white bg-theme">
+                <div class="m-inner">
+                        <div class="margin-b-24">
+                                <h2 >Explore other SVB reports </h2>
+                        </div>
+                        <div class="x-carousel no-gradient P06">
+                            <div class="carousel-inner grid xc-grid grid-conform gap-32  product-cards">
+                                    <div class="x-card xc-report shadow hover-up no-border">
+                                        <div class="x-card-inner ">
+
+
+
+<div class="product-card" id="product-cards-image-161476" data-content="State of Enterprise Software" asdf>
+    <div class="card-content">
+<picture><source srcset="/cdn-cgi/image/width=225,format=auto,fit=crop,quality=65/contentassets/84dd93c1035f4f4aa8cb09e316fa7433/enterprise-sw-cross-promo_225x125.jpg 225w" sizes="225px" /><img alt="Enterprise SW Cross Promo 225 x 125" src="/cdn-cgi/image/width=225,format=auto,fit=crop,quality=65/contentassets/84dd93c1035f4f4aa8cb09e316fa7433/enterprise-sw-cross-promo_225x125.jpg" loading="lazy" decoding="async" class="img-card-img w-full max-w-full"/></picture>        <div class="card-main margin-t-24 margin-b-36">
+            <span class="font-bold" >State of Enterprise Software</span>
+        </div>
+            <div class="card-footer">
+                <a href="/trends-insights/reports/state-of-enterprise-software/" class="link"><span>Learn more</span></a>
+            </div>
+    </div>
+</div>
+                                        </div>
+                                    </div>
+                                    <div class="x-card xc-report shadow hover-up no-border">
+                                        <div class="x-card-inner ">
+
+
+
+<div class="product-card" id="product-cards-image-145808" data-content="The Future of Frontier Tech" asdf>
+    <div class="card-content">
+<picture><source srcset="/cdn-cgi/image/width=225,format=auto,fit=crop,quality=65/contentassets/7a82bec96f28469895220a7a67a94e55/102441---cross-promo-thumbnail---225-x-125px.jpeg 225w" sizes="225px" /><img alt="102441 Cross promo thumbnail 225 x 125 px" src="/cdn-cgi/image/width=225,format=auto,fit=crop,quality=65/contentassets/7a82bec96f28469895220a7a67a94e55/102441---cross-promo-thumbnail---225-x-125px.jpeg" loading="lazy" decoding="async" class="img-card-img w-full max-w-full"/></picture>        <div class="card-main margin-t-24 margin-b-36">
+            <span class="font-bold" >The Future of Frontier Tech </span>
+        </div>
+            <div class="card-footer">
+                <a href="/trends-insights/reports/future-of-frontier-tech/" class="link"><span>Learn more</span></a>
+            </div>
+    </div>
+</div>
+                                        </div>
+                                    </div>
+                                    <div class="x-card xc-report shadow hover-up no-border">
+                                        <div class="x-card-inner ">
+
+
+
+<div class="product-card" id="product-cards-image-128063" data-content="The Future of Climate Tech" asdf>
+    <div class="card-content">
+<picture><source srcset="/cdn-cgi/image/width=225,format=auto,fit=crop,quality=65/contentassets/a9e34f992dea41b4b90e5f015d80e136/climate-tech-article-225z120.jpg 225w" sizes="225px" /><img alt="Climate Tech Article 225 z 120" src="/cdn-cgi/image/width=225,format=auto,fit=crop,quality=65/contentassets/a9e34f992dea41b4b90e5f015d80e136/climate-tech-article-225z120.jpg" loading="lazy" decoding="async" class="img-card-img w-full max-w-full"/></picture>        <div class="card-main margin-t-24 margin-b-36">
+            <span class="font-bold" >The Future of Climate Tech</span>
+        </div>
+            <div class="card-footer">
+                <a href="/trends-insights/reports/future-of-climate-tech/" class="link"><span>Learn more</span></a>
+            </div>
+    </div>
+</div>
+                                        </div>
+                                    </div>
+                                    <div class="x-card xc-report shadow hover-up no-border">
+                                        <div class="x-card-inner ">
+
+
+
+<div class="product-card" id="product-cards-image-136404" data-content="Global Fund Banking Outlook" asdf>
+    <div class="card-content">
+<picture><source srcset="/cdn-cgi/image/width=225,format=auto,fit=crop,quality=65/contentassets/61f9b11145704d83869579b6e7292810/gfb-report-image-225x120.jpg 225w" sizes="225px" /><img alt="gfb report image 225 x 120" src="/cdn-cgi/image/width=225,format=auto,fit=crop,quality=65/contentassets/61f9b11145704d83869579b6e7292810/gfb-report-image-225x120.jpg" loading="lazy" decoding="async" class="img-card-img w-full max-w-full"/></picture>        <div class="card-main margin-t-24 margin-b-36">
+            <span class="font-bold" >Global Fund Banking Outlook </span>
+        </div>
+            <div class="card-footer">
+                <a href="/trends-insights/reports/global-fund-banking-outlook-report/" class="link"><span>Learn more</span></a>
+            </div>
+    </div>
+</div>
+                                        </div>
+                                    </div>
+                            </div>
+                        </div>
+                </div>
+            </div>
+        </section>
+<!-- END: 'Product Cards' -->
+</div><div class="block  headerblock  withsidebar">
+
+<!--Header Block-->
+    <section class="rtm rtm-header no-v-space" id="Authors"></section>
+<!--End Header Block-->
+</div><div class="block  peoplecardsblock  withsidebar">
+
+
+        <section id="people-cards-117809" class="x g2 module-authors-grid">
+            <div class="m theme-neutral-50 bg-theme">
+                <div class="m-inner">
+                        <h2>Written and researched by SVB experts </h2>
+                        <p style="white-space:pre-line;" >Our deep relationships with top entrepreneurs and investors inform our insights and give us a vantage point unlike any other bank. </p>
+
+                        <div class="grid" style="grid-template-columns: repeat(auto-fit, minmax(392px, max-content));">
+                                <div class="x-card profile-card x-card-width  no-border pc-small transparent">
+                                    <div class="x-card-inner grid">
+                                            <a href="/profile/marc-c-cadieux/" class="pc-link-wrap x-nu" title="Marc Cadieux" >
+                                                <span class="profile-grid inline-grid">
+                                                    <span class="profile-img">
+                                                        <picture><source srcset="/cdn-cgi/image/width=100,format=auto,fit=crop,height=100,quality=65/globalassets/profile-photos/mcadieux-260x260.jpg 100w" sizes="100px" /><img alt="Marc Cadieux Headshot" src="/cdn-cgi/image/width=100,format=auto,fit=crop,height=100,quality=65/globalassets/profile-photos/mcadieux-260x260.jpg" loading="lazy" decoding="async" class="profile-img fade-in round profile-img-med vertical-align-middle"/></picture>
+                                                    </span>
+                                                    <span class="profile-details">
+                                                        <span class="profile-name">Marc Cadieux</span>
+                                                        <span class="profile-title">President, Silicon Valley Bank</span>
+                                                    </span>
+                                                </span>
+                                                </a>
+                                        </div>
+                                    </div>
+                                <div class="x-card profile-card x-card-width  no-border pc-small transparent">
+                                    <div class="x-card-inner grid">
+                                            <a href="/profile/mark-gallagher/" class="pc-link-wrap x-nu" title="Mark Gallagher" >
+                                                <span class="profile-grid inline-grid">
+                                                    <span class="profile-img">
+                                                        <picture><source srcset="/cdn-cgi/image/width=100,format=auto,fit=crop,height=100,quality=65/globalassets/profile-photos/mark-gallagher-headshot-new-260x260.jpg 100w" sizes="100px" /><img alt="Mark Gallagher Headshot" src="/cdn-cgi/image/width=100,format=auto,fit=crop,height=100,quality=65/globalassets/profile-photos/mark-gallagher-headshot-new-260x260.jpg" loading="lazy" decoding="async" class="profile-img fade-in round profile-img-med vertical-align-middle"/></picture>
+                                                    </span>
+                                                    <span class="profile-details">
+                                                        <span class="profile-name">Mark Gallagher</span>
+                                                        <span class="profile-title">Co-Head of Investor Coverage and Business Development</span>
+                                                    </span>
+                                                </span>
+                                                </a>
+                                        </div>
+                                    </div>
+                                <div class="x-card profile-card x-card-width  no-border pc-small transparent">
+                                    <div class="x-card-inner grid">
+                                            <a href="/profile/eli-oftedal/" class="pc-link-wrap x-nu" title="Eli Oftedal" >
+                                                <span class="profile-grid inline-grid">
+                                                    <span class="profile-img">
+                                                        <picture><source srcset="/cdn-cgi/image/width=100,format=auto,fit=crop,height=100,quality=65/globalassets/profile-photos/eli-oftedal-profile-pic-260x260.jpg 100w" sizes="100px" /><img alt="Eli Oftedal Headshot" src="/cdn-cgi/image/width=100,format=auto,fit=crop,height=100,quality=65/globalassets/profile-photos/eli-oftedal-profile-pic-260x260.jpg" loading="lazy" decoding="async" class="profile-img fade-in round profile-img-med vertical-align-middle"/></picture>
+                                                    </span>
+                                                    <span class="profile-details">
+                                                        <span class="profile-name">Eli Oftedal</span>
+                                                        <span class="profile-title">Principal Researcher, Market Insights</span>
+                                                    </span>
+                                                </span>
+                                                </a>
+                                        </div>
+                                    </div>
+                                <div class="x-card profile-card x-card-width  no-border pc-small transparent">
+                                    <div class="x-card-inner grid">
+                                            <a href="/profile/Josh-Pherigo/" class="pc-link-wrap x-nu" title="Josh Pherigo" >
+                                                <span class="profile-grid inline-grid">
+                                                    <span class="profile-img">
+                                                        <picture><source srcset="/cdn-cgi/image/width=100,format=auto,fit=crop,height=100,quality=65/globalassets/profile-photos/josh-pherigo.jpg 100w" sizes="100px" /><img alt="Josh Pherigo Headshot" src="/cdn-cgi/image/width=100,format=auto,fit=crop,height=100,quality=65/globalassets/profile-photos/josh-pherigo.jpg" loading="lazy" decoding="async" class="profile-img fade-in round profile-img-med vertical-align-middle"/></picture>
+                                                    </span>
+                                                    <span class="profile-details">
+                                                        <span class="profile-name">Josh Pherigo</span>
+                                                        <span class="profile-title">Principal Researcher, Market Insights</span>
+                                                    </span>
+                                                </span>
+                                                </a>
+                                        </div>
+                                    </div>
+                                <div class="x-card profile-card x-card-width  no-border pc-small transparent">
+                                    <div class="x-card-inner grid">
+                                            <a href="/profile/jake-ledbetter/" class="pc-link-wrap x-nu" title="Jake Ledbetter" >
+                                                <span class="profile-grid inline-grid">
+                                                    <span class="profile-img">
+                                                        <picture><source srcset="/cdn-cgi/image/width=100,format=auto,fit=crop,height=100,quality=65/profile/jake-ledbetter/contentassets/jake260x260.jpeg 100w" sizes="100px" /><img alt="Jake Ledbetter Headshot" src="/cdn-cgi/image/width=100,format=auto,fit=crop,height=100,quality=65/profile/jake-ledbetter/contentassets/jake260x260.jpeg" loading="lazy" decoding="async" class="profile-img fade-in round profile-img-med vertical-align-middle"/></picture>
+                                                    </span>
+                                                    <span class="profile-details">
+                                                        <span class="profile-name">Jake Ledbetter</span>
+                                                        <span class="profile-title">Senior Researcher, Market Insights</span>
+                                                    </span>
+                                                </span>
+                                                </a>
+                                        </div>
+                                    </div>
+                                <div class="x-card profile-card x-card-width  no-border pc-small transparent">
+                                    <div class="x-card-inner grid">
+                                            <a href="/profile/anjalika-komatireddy/" class="pc-link-wrap x-nu" title="Anjalika Komatireddy" >
+                                                <span class="profile-grid inline-grid">
+                                                    <span class="profile-img">
+                                                        <picture><source srcset="/cdn-cgi/image/width=100,format=auto,fit=crop,height=100,quality=65/profile/anjalika-komatireddy/contentassets/Anjalika_headshot.jpg 100w" sizes="100px" /><img alt="Anjalika Komatireddy Headshot" src="/cdn-cgi/image/width=100,format=auto,fit=crop,height=100,quality=65/profile/anjalika-komatireddy/contentassets/Anjalika_headshot.jpg" loading="lazy" decoding="async" class="profile-img fade-in round profile-img-med vertical-align-middle"/></picture>
+                                                    </span>
+                                                    <span class="profile-details">
+                                                        <span class="profile-name">Anjalika Komatireddy</span>
+                                                        <span class="profile-title">Research Analyst, Market Insights</span>
+                                                    </span>
+                                                </span>
+                                                </a>
+                                        </div>
+                                    </div>
+                            </div>
+                        </div>
+                </section>
+</div><div class="block  htmlblock  withsidebar">
+
+<div class="x">
+<div class="m">
+<div class="m-inner">
+<p class="disclaimer">The views expressed in this report are solely those of the authors and do not necessarily reflect the views of Silicon Valley Bank, a division of First-Citizens Bank.<br /><br />This material, including without limitation to the statistical information herein, is provided for informational purposes only. The material is based in part on information from third-party sources that we believe to be reliable but which has not been independently verified by us, and, as such, we do not represent the information is accurate or complete. The information should not be viewed as tax, accounting, investment, legal or other advice, nor is it to be relied on in making an investment or other decision. You should obtain relevant and specific professional advice before making any investment decision. Nothing relating to the material should be construed as a solicitation, offer or recommendation to acquire or dispose of any investment, or to engage in any other transaction.<br /><br />All non-SVB named companies listed throughout this document, as represented with the various statistical, thoughts, analysis and insights shared in this document, are independent third parties and are not affiliated with Silicon Valley Bank or First Citizens Bank &amp; Trust Company. All third-party trademarks, logos, and brand names are the property of their respective owners and are herein used for informational purposes only. Any predictions are based on subjective assessments and assumptions. Accordingly, any predictions, projections or analysis should not be viewed as factual and should not be relied upon as an accurate prediction of future results.</p>
+</div>
+</div>
+</div></div></div>
+                    <!--End Content Area-->
+                </div>
+            </div>
+        </div>
+
+        </main>
+    </div>
+
+
+
+
+<footer class="x g2">
+    <div class="footer-wrap theme-navy-900 bg-theme">
+        <div class="footer-inner grid text-white">
+            <div class="c1">
+                <div class="c1-inner">
+                        <div class="c1-mobile border-b border-color-white padding-b-24 margin-b-24">
+<ul class="list-mobile list-none font-bold margin-t-0">
+<li><a href="/trends-insights/perspectives/" class="x-nu">Trends &amp; Insights</a></li>
+<li><a href="/about-svb/" class="x-nu">About Us</a></li>
+<li><a href="/contact/" class="x-nu">Contact</a></li>
+<li><a href="/careers/" class="x-nu">Careers</a></li>
+</ul>                        </div>
+                        <div class="c1-title font-bold">Subscribe to newsletters</div>
+                        <a href="/email-subscription-setup/" class="link-button primary-yellow margin-t-8">
+                            <span class="inner w-100"><span class="bold">Sign up now</span><span class="far fa-arrow-right"><!-- --></span></span>
+                        </a>
+                </div>
+            </div>
+            <div class="c2 grid text-xsmall">
+                <div class="c2-inner grid">
+                        <div class="c2ic1">
+<div><span class="font-bold text-white">How We Help Clients</span></div>
+<ul class="list-links list-about list-none padding-0">
+<li><a href="/startup-banking/" class="x-nu">Startup Banking</a></li>
+<li><a href="/venture-funded/" class="x-nu">Venture-Funded</a></li>
+<li><a href="/corporate-banking/" class="x-nu">Corporate Banking</a></li>
+<li><a href="/investor-solutions/" class="x-nu">Investors</a></li>
+<li><a href="https://www.firstcitizens.com/wealth" class="x-nu" target="_blank" rel="noopener">Private Banking &amp; Wealth Advisory</a></li>
+<li><a href="/industry-solutions/" class="x-nu">Industries We Serve</a></li>
+</ul>                        </div>
+                        <div class="c2ic2">
+<div><a href="/trends-insights/perspectives/" class="font-bold text-white x-nu">Trends &amp; Insights</a></div>
+<ul class="list-links list-about list-none padding-0">
+<li><a href="/trends-insights/signature-research/" class="x-nu">SVB Signature Research</a></li>
+<li><a href="/trends-insights/perspectives/" class="x-nu">SVB Perspectives</a></li>
+<li><a href="/startup-insights/" class="x-nu">Startup Insights</a></li>
+</ul>                        </div>
+                        <div class="c2ic3">
+<div><a href="/about-svb/" class="font-bold text-white x-nu">About Us</a></div>
+<ul class="list-links list-about list-none padding-0">
+<li><a href="/careers/" class="x-nu">Careers</a></li>
+<li><a href="/about-svb/svb-client-faqs/" class="x-nu" target="_blank" rel="noopener">FAQ</a></li>
+<li><a href="/newsroom/" class="x-nu">Newsroom</a></li>
+</ul>                        </div>
+                        <div class="c2ic4">
+<div><a href="/contact/" class="font-bold text-white x-nu">Contact &amp; Support</a></div>
+<ul class="list-links list-about list-none padding-0">
+<li><a href="/locations/" class="x-nu">Locations</a></li>
+<li><a href="/contact/" class="x-nu">Contact</a></li>
+<li><a href="/fraud-prevention/" class="x-nu">Fraud Prevention</a></li>
+<li><a href="https://developer.svb.com/" class="x-nu" target="_blank" rel="noopener">Developer Resources</a></li>
+</ul>                        </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="footer-addendum grid">
+        <div class="c1">
+            <div class="c1-grid grid w-100 border-b border-gray-200">
+                <div class="c1-social">
+                    <div class="c1s-inner grid gap-0 gap-m-0 text-navy">
+                        <div><a href="https://www.linkedin.com/company/silicon-valley-bank/" class="x-nu external" target="_blank" title="SVB on LinkedIn" rel="noopener noreferrer"><span class="fab fa-linkedin-in"><!-- --></span></a></div>
+                        <div><a href="https://twitter.com/SiliconVlyBank" class="x-nu external" target="_blank" title="SVB on Twitter" rel="noopener noreferrer"> <span class="icon-twitter"><!-- --></span></a></div>
+                        <div><a href="https://www.youtube.com/@siliconvalleybank" class="x-nu external" target="_blank" title="SVB on YouTube" rel="noopener noreferrer"> <span class="fab fa-youtube"><!-- --></span></a></div>
+                    </div>
+                </div>
+                <div class="c1-logos grid grid-style-column grid-cols-max-content">
+                </div>
+            </div>
+        </div>
+        
+
+
+
+    <div class="c2" role="contentinfo">
+        <div class="">
+            <ul class="fa-list-links list-inline list-disc text-tiny">
+                    <li>
+                        <a href="/terms-use/" class="x-nu" >Terms of Use</a>
+                    </li>
+                    <li>
+                        <a href="/privacy-notice/" class="x-nu" >Privacy</a>
+                    </li>
+                    <li>
+                        <a href="/mortgage-payment/" class="x-nu" >Help for Homeowners</a>
+                    </li>
+                    <li>
+                        <a href="/equal-credit-opportunity-act-disclosures/" class="x-nu" >Equal Credit Opportunity Act Disclosures</a>
+                    </li>
+                    <li>
+                        <a href="/email-subscription-manage/" class="x-nu" >Manage Email Preferences</a>
+                    </li>
+                    <li>
+                        <a href="/international-disclosures/" class="x-nu" >International Disclosures</a>
+                    </li>
+                    <li>
+                        <a href="javascript:Optanon.ToggleInfoDisplay();" class="x-nu" >Your Privacy Choices <span class="icon-privacyoptions"><span class="path1"></span><span class="path2"></span><span class="path3"></span><span class="path4"></span></span></a>
+                    </li>
+            </ul>
+        </div>
+    </div>
+<div class="c3">
+    <div class="legal">
+        <p>Silicon Valley Bank, a division of First-Citizens Bank &amp; Trust Company, as well as the other divisions, subsidiaries, and affiliates of First-Citizens Bank &amp; Trust Company (together, SVB), are U.S. financial institutions and provide products and services to non-U.S. clients on a cross-border basis from the United States of America. SVB is not licensed or regulated as a bank or any other type of financial institution outside of the United States of America. Please review our &nbsp;<a href="/link/94ae22ea27db406095e3c455fee42a1d.aspx" class="external-link" target="_blank" title="Follow link" rel="nofollow noopener">International Disclosures</a>&nbsp;for more information.</p>
+<p>&copy;2025 First-Citizens Bank &amp; Trust Company. All rights reserved. Silicon Valley Bank, a division of First-Citizens Bank &amp; Trust Company.&nbsp;</p>
+    </div>
+</div>
+
+    </div>
+</footer>
+
+    <script defer="defer" src="/Util/Find/epi-util/find.js"></script>
+<script src="/SVB_Assets/vendor/simplebar-5.0.7/simplebar.min.js?v=wJXgmdXzwIfuXOK32JsqYjV-6xV4yxcjT8r-_oxh9Ow"></script>
+<script src="/SVB_Assets/javascripts/link-scroller.js?v=gyqoJkntc4nTvCZvpAYmGxbUhglTGQ_4GnMrLv5zSSU"></script>
+<script src="/SVB_Assets/javascripts/reports-template-3.js?v=p7dSzLBa7f9o_botk4666AraAzbFGkA7AfiIAepr3Mk"></script>
+<script src="/Static/js/jquery.transit.min.js?v=XGO6_do-8DrG2gQ9PAQ6X2pZuvnlkqyLo_AtUz8yRBE"></script>
+<script src="/Static/js/marketo-component.js?v=0h-SzidaKb00i3XRSo7v4WaN0zzVzIeD682Viql-960"></script>
+<script src="/Static/js/marketo-recaptcha.js?v=CYAlpCK3hKQjKPb4OiKuCMl3_sZxaIJEYmfmaSk7xEM"></script>
+<script src="/SVB_Assets/javascripts/product-cards.js?v=j4npC4DjdGbHkzfzcrUl6R7dWEcYL6XSemHiihuoYJw"></script>
+<script src="/SVB_Assets/javascripts/x-carousels.js?v=GthUWc4su3vBWe82PGdVUppMB4g4op0eeVtYWi9QcjE"></script>
+<script>
+initFormLoad(true, 'lp.svb.com', '610-KAK-266', false, '', 2613, 'Gated Content Download', 'Marketo-Form-Component-Block_gl-demandgen-extended_117750-mktoForm_2613')
+</script>
+<script>
+hideFormFields('Marketo-Form-Component-Block_gl-demandgen-extended_117750', ['firstname','lastname','company','jobtitle','org','firmyear','orgincubator','personalnote','timing','orgfirmtype','orgprioryearrev','org','orgdecision','orgyear'])
+</script>
+<script>
+document.addEventListener('DOMContentLoaded',function(){if(typeof FindApi === 'function'){var api = new FindApi();api.setApplicationUrl('/');api.setServiceApiBaseUrl('/find_v2/');api.processEventFromCurrentUri();api.bindWindowEvents();api.bindAClickEvent();api.sendBufferedEvents();}})
+</script>
+
+    <script type="text/javascript">
+
+$(function () {
+tmpform = '#Marketo-Form-Component-Block_gl-demandgen-extended_117750 .form-cell #email';
+
+
+
+//wait for object and elements to load, after page-load
+var eLoad = function (selector, callback) {
+if (jQuery(selector).length > 0) {
+callback();
+} else {
+setTimeout(function () {
+eLoad(selector, callback);
+}, 100);
+}
+};
+
+
+
+eLoad(tmpform, function () {
+$(document).ready(function () {
+$('#Marketo-Form-Component-Block_gl-demandgen-extended_117750 .form-cell #email').parents().addClass('span-2');
+$('#Marketo-Form-Component-Block_gl-demandgen-extended_117750 .form-cell #personalnote').parents().remove();
+});
+});
+});
+
+
+$(function () {
+tmpform = '#Marketo-Form-Component-Block_gl-demandgen-extended_117750 .form-cell #email';
+
+
+
+//wait for object and elements to load, after page-load
+var eLoad = function (selector, callback) {
+if (jQuery(selector).length > 0) {
+callback();
+} else {
+setTimeout(function () {
+eLoad(selector, callback);
+}, 100);
+}
+};
+
+
+
+eLoad(tmpform, function () {
+$(document).ready(function () {
+$('#Marketo-Form-Component-Block_gl-demandgen-extended_117750 .form-cell #email').parents().addClass('span-2');
+$('#Marketo-Form-Component-Block_gl-demandgen-extended_117750 .form-cell #personalnote').parents().remove();
+});
+});
+});
+
+
+</script>
+
+        <script src="https://nebula-cdn.kampyle.com/wu/485159/onsite/embed.js" type="text/plain" class="optanon-category-C0003" async></script>
+<script type="text/plain" class="optanon-category-C0003">_linkedin_partner_id = "754403"; window._linkedin_data_partner_ids = window._linkedin_data_partner_ids || []; window._linkedin_data_partner_ids.push(_linkedin_partner_id); </script><script type="text/plain" class="optanon-category-C0003"> (function(l) { {{if (!l){window.lintrk = function(a,b)  {window.lintrk.q.push([a,b])}  ;}} window.lintrk.q=[]} var s = document.getElementsByTagName("script")[0]; var b = document.createElement("script"); b.type = "text/javascript";b.async = true; b.src = "https://snap.licdn.com/li.lms-analytics/insight.min.js"; s.parentNode.insertBefore(b, s);})(window.lintrk);</script> <noscript> <img height="1" width="1" style="display:none;" alt="" src="https://px.ads.linkedin.com/collect/?pid=754403&fmt=gif" /> </noscript>
+
+
+
+
+<script type="text/javascript">
+    var domainExcludeList = domainExcludeList || [];
+domainExcludeList.push('www.svbleerink.com'); domainExcludeList.push('svb.wd5.myworkdayjobs.com'); domainExcludeList.push('connect.svb.com'); domainExcludeList.push('ir.svb.com'); domainExcludeList.push('events.svb.com'); domainExcludeList.push('svb.wedia-group.com'); domainExcludeList.push('media-svb.wedia-group.com'); domainExcludeList.push('start.bostonprivate.com'); domainExcludeList.push('go.bostonprivate.com'); domainExcludeList.push('login.bdreporting.com'); domainExcludeList.push('mfaservices.cconnect.com'); domainExcludeList.push('secure.bostonprivate.com'); domainExcludeList.push('pb.svb.com'); domainExcludeList.push('bostonprivate.cconnect.com'); domainExcludeList.push('www.svbfamilyonline.com'); domainExcludeList.push('www.svbsecurities.com'); domainExcludeList.push('private.svb.com'); domainExcludeList.push('start.private.svb.com'); domainExcludeList.push('download.trusteer.com'); domainExcludeList.push('developer.svb.com'); domainExcludeList.push('svbprivate.cconnect.com'); domainExcludeList.push('svb.turtl.co'); domainExcludeList.push('lendx.svb.com'); domainExcludeList.push('www.fdic.gov'); domainExcludeList.push('www.firstcitizens.com'); domainExcludeList.push('ir.firstcitizens.com'); domainExcludeList.push('newsroom.firstcitizens.com'); domainExcludeList.push('jobs.firstcitizens.com'); domainExcludeList.push('www.svbconnect.com'); domainExcludeList.push('www.svbcapital.com'); domainExcludeList.push('nexus.svb.com'); domainExcludeList.push('idx-fcb.okta.com'); domainExcludeList.push('locations.firstcitizens.com'); domainExcludeList.push('sweep.svbconnect.com'); domainExcludeList.push('discover.svb.com'); </script>
+
+<div id="xmodal-speed-bump" class="x x2 speed-bump-modal xmodal-v1 text-white">
+    <div class="xmodal hidden">
+        <a href="#" class="xmodal-bgclose" aria-label="Close Dialog"> <!-- --> </a>
+        <div class="xmodal-inner">
+            <div class="speed-bump-content">
+                <div class="speed-bump-header">
+                    <div class="h5" style="color:#fff;font-weight:400;">You are now leaving Silicon Valley Bank (SVB)</div>
+                    <a href="#" class="xmodal-close text-gray-200" title="Close"> <span class="far fa-times"><!-- --></span> </a>
+                </div>
+                <div class="speed-bump-desc text-white">
+You will be directed to a different website or mobile app that has its own terms of use, visitor agreement, security and privacy policies. SVB is not responsible for (and does not provide) any products, services or content at the third party site or app, except for the products and services that carry the SVB name.                </div>
+                <div class="speed-bump-cta">
+                    <a href="#" class="link-button primary-yellow speed-bump-cta1" target="_blank"> <span> <span>I understand, let&#x27;s proceed </span> <span class="fas fa-angle-right"> <!-- --> </span> </span> </a>
+                    <a href="#" class="sb-close speed-bump-cta2"> <span> Stay on SVB.com </span> </a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+</body>
+</html>

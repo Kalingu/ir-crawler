@@ -1,0 +1,455 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Offer Redirect</title>
+    <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
+    
+    <style>
+        body * {
+            font-family: 'Roboto', sans-serif;
+        }
+        .container {
+            margin: 0 auto;
+            padding-top: 100px;
+            max-width: 600px;
+            text-align: center;
+            display: block;
+            font-size: 16px;
+            color: black;
+        }
+        .container img {
+            max-width: 250px;
+            max-height: 250px;
+            display: inline-block;
+            vertical-align: middle;
+        }
+        #interstitialTitle {
+            margin-top: 20px;
+            font-size: 1.1em;
+        }
+        #interstitialHtml {
+            margin-top: 20px;
+            color: #8c8c8c;
+            font-size: 0.85em;
+        }
+        #redirectButton {
+        
+        background-color: #00a618;
+            
+        color: white;
+            font-size: 14px;
+            margin-top: 20px;
+            padding: 10px 20px;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+        #redirectButton:focus {
+            outline: none;
+        }
+        #skipButton {
+        
+            color: #14B1F7;
+            
+            font-size: 14px;
+            margin-top: 20px;
+            padding: 10px 20px;
+            border: none;
+            cursor: pointer;
+        }
+        #countdown {
+            margin-top: 20px;
+            color: #00a618;
+            font-size: 0.85em;
+        }
+        #terms {
+            color: #8c8c8c;
+            font-size: 0.85em;
+            margin-top: 40px;
+        }
+        .userInputWrap {
+            margin-top: 20px;
+        }
+        .invalid {
+            background-color: #F1C0C0;
+            padding: 5px;
+        }
+        .userInput {
+            width: 250px;
+            padding: 9px 10px;
+            font-size: 16px;
+            border-radius: 8px;
+            border: 1px solid #CACFD3;
+        }
+        .userInput:focus {
+            outline: none;
+        }
+        .errorMessageWrap {
+            display: none;
+        }
+        .invalid > .errorMessageWrap {
+            display: block;
+        }
+    </style>
+    
+    <style>
+    </style>
+</head>
+<body>
+<form method="GET" name="interstitialForm" class="container">
+
+    <div id="interstitialTitle">
+        It looks like you&rsquo;re visiting us from outside our shipping areas. For more information, visit helixsleep.com
+    </div>
+
+    <div id="interstitialHtml">
+        
+    </div>
+
+    <div id="terms">
+        
+    </div>
+</form>
+<script>
+
+    (function () {
+        var form = document.forms.interstitialForm,
+                varMap = {
+                    'SHARED_ID': "sharedid",
+                    'SUB_ID1': "subid1",
+                    'SUB_ID2': "subid2",
+                    'SUB_ID3': "subid3",
+                    'PARAM1': "param1",
+                    'PARAM2': "param2",
+                    'PARAM3': "param3",
+                    'CUSTOMER_ID': "custid"
+                },
+                referrer = "",
+                cfg = {"id":75848,"campaignId":9928,"headerText":"It looks like you’re visiting us from outside our shipping areas. For more information, visit helixsleep.com","headerTextColor":"000000","interstitialHtml":"","subHeaderText":"","subHeaderTextColor":null,"ruleAction":"BLOCK","ackButton":false,"ackButtonColor":"00a618","ackButtonText":"","ackButtonTextColor":null,"downloadButton":true,"downloadButtonColor":"0071ce","downloadButtonText":"Download the app","downloadButtonTextColor":"ffffff","continueButton":true,"continueButtonColor":null,"continueButtonText":"Continue to website","continueButtonTextColor":"0071ce","archived":false,"showPartnerLogo":false,"additionalTerms":"","overrideCSS":false,"cssOverride":"","requireInput":false,"inputFields":[],"countdown":null,"showAtLeastOnce":false,"allowSkipOption":false,"fontFamily":null,"externalFontUrl":null,"coverImageUrl":"","logoImageUrl":"","elementParams":{},"templateType":"CUSTOM","templateId":"interstitial.vm","skipButtonColor":null,"skipButtonText":null,"deepLinkingHeaderText":null,"deepLinkingHeaderFontColor":null,"deepLinkingSubHeaderText":null,"deepLinkingSubHeaderFontColor":null,"deepLinkingOpenAppText":null,"deepLinkingOpenAppFontColor":null,"deepLinkingOpenAppBackgroundColor":null,"deepLinkingLinkLabelText":null,"deepLinkingLinkLabelFontColor":null,"deepLinkingAutoLaunchApp":true,"deepLinkingAutoRedirect":false,"deepLinkingAutoRedirectCountdown":null,"deepLinkingCustomiseCss":false,"deepLinkingCustomCss":"","deepLinkingDefaultPath":null,"deepLinkingUriRegex":null};
+
+    
+            function addClass(el, className) {
+                if (el.classList) {
+                    el.classList.add(className);
+                } else if (!new RegExp('(^|\\b)' + className + '(\\b|$)', 'gi').test(el.className)) {
+                    el.className += ' ' + className;
+                }
+            }
+
+            function removeClass(el, className) {
+                if (el.classList) {
+                    el.classList.remove(className);
+                } else {
+                    el.className = el.className.replace(new RegExp('(^|\\b)' + className.split(' ').join('|') + '(\\b|$)', 'gi'), ' ');
+                }
+            }
+
+
+            function decode(s) {
+                if(s) {
+                    s = s.replace(/\+/g, " ");
+                    s = s.replace(/%([EF][0-9A-F])%([89AB][0-9A-F])%([89AB][0-9A-F])/gi,
+                            function(code,hex1,hex2,hex3) {
+                                var n1= parseInt(hex1,16)-0xE0;
+                                var n2= parseInt(hex2,16)-0x80;
+                                if (n1 == 0 && n2 < 32) return code;
+                                var n3= parseInt(hex3,16)-0x80;
+                                var n= (n1<<12) + (n2<<6) + n3;
+                                if (n > 0xFFFF) return code;
+                                return String.fromCharCode(n);
+                            });
+                    s = s.replace(/%([CD][0-9A-F])%([89AB][0-9A-F])/gi,
+                            function(code,hex1,hex2){
+                                var n1= parseInt(hex1,16)-0xC0;
+                                if (n1 < 2) return code;
+                                var n2= parseInt(hex2,16)-0x80;
+                                return String.fromCharCode((n1<<6)+n2);
+                            });
+                    s = s.replace(/%([0-7][0-9A-F])/gi,
+                            function(code,hex){
+                                return String.fromCharCode(parseInt(hex,16));
+                            });
+                }
+                return s;
+            }
+
+
+            function createInput(name, input, value) {
+                var wrap = document.createElement('div'),
+                        errorMsg = document.createElement('div'),
+                        label = document.createElement('label'),
+                        element = document.createElement('input');
+
+                element.type = 'text';
+                element.name = name;
+                element.value = value;
+                element.placeholder = input.displayValue;
+                element.onchange = validateFields;
+                element.onkeyup = validateFields;
+                element.onpaste = validateFields;
+                addClass(element, 'userInput');
+                label.htmlFor = name;
+                label.innerText = ''; //input.displayValue;
+                errorMsg.innerText = input.errorMessage;
+                addClass(errorMsg, 'errorMessageWrap');
+                addClass(wrap, 'userInputWrap');
+                wrap.appendChild(errorMsg);
+                wrap.appendChild(label);
+                wrap.appendChild(document.createTextNode(' '));
+                wrap.appendChild(element);
+                return wrap;
+            }
+            function createHiddenInput(name, value) {
+                var element = document.createElement('input');
+                element.type = 'hidden';
+                element.id = name;
+                element.name = name;
+                element.value = value;
+                return element;
+            }
+
+            var submitted = false;
+
+            function buildForm() {
+
+                var terms = document.getElementById('terms'),
+                        inputs = { },
+                        params = window.location.search ? window.location.search.substr(1).split('&') : [ ],
+                        submitButton,
+                        countdown, coundownFn, timer, expire = new Date().getTime() + 5000;
+
+                if (cfg.requireInput) {
+                    cfg.inputFields.forEach(function(field, i) {
+                        inputs[varMap[field.variable]] = field;
+                    });
+                }
+                params.forEach(function(pair, i) {
+
+                    var nameVal = pair.match(/^([^=]+)(=(.*))?$/),
+                            name = decode(nameVal[1]),
+                            value = decode(nameVal[3]),
+                            element;
+
+                    if (name === 'submit' || name === 'submitmethod') {
+                        // do not override the form submit
+                        return;
+                    }
+                    if (name == 'srcref') {
+                        // referrer is handled later
+                        return;
+                    }
+                    element = inputs.hasOwnProperty(name) ? createInput(name, inputs[name], value) : createHiddenInput(name, value);
+                    form.insertBefore(element, terms);
+                    delete inputs[name];
+                });
+                Object.keys(inputs).forEach(function (name) {
+                    var element = createInput(name, inputs[name], null);
+                    form.insertBefore(element, terms);
+                });
+                // Add referrer as the original will be lost on submit
+                form.insertBefore(createHiddenInput('srcref', referrer), terms);
+                form.insertBefore(createHiddenInput('submitmethod', ''), terms);
+
+                if (cfg.ruleAction == 'REDIRECT' || cfg.ruleAction == 'INTERSTITIAL') {
+                    if (cfg.ackButton) {
+
+                        if (cfg.requireInput && cfg.allowSkipOption) {
+                            submitButton = document.createElement('button');
+                            submitButton.id = 'skipButton';
+                            submitButton.onclick = skipInput;
+                            submitButton.innerText =  cfg.skipButtonText || 'Skip';
+                            form.insertBefore(submitButton, terms);
+                        }
+                        if (cfg.mobileFallback) {
+                            submitButton = document.createElement('button');
+                            submitButton.id = 'fallbackButton';
+                            submitButton.onclick = fallback;
+                            submitButton.innerText =  'Fallback';
+                            form.insertBefore(submitButton, terms);
+                        }
+                        submitButton = document.createElement('button');
+                        submitButton.id = 'redirectButton';
+                        submitButton.onclick = formSubmit;
+                        submitButton.innerText = cfg.ackButtonText || 'Continue';
+                        form.insertBefore(submitButton, terms);
+                    }
+                    if (!cfg.ackButton) {
+                        countdown = document.createElement('span');
+                        countdown.id = 'countdown';
+                        form.insertBefore(countdown, terms);
+                        countdownFn = function () {
+                            var now = new Date().getTime(), remaining = (expire - now) / 1000,
+                                    text = "You will be automatically redirected" + (remaining > 0 ? " in " + remaining.toFixed(1) + " seconds." : " now.");
+                            countdown.innerText = text;
+                            if (remaining <= 0) {
+                                window.clearInterval(timer);
+                                endCountdown();
+                            }
+                        };
+                        timer = window.setInterval(countdownFn, 100);
+                        countdownFn();
+                    }
+                } else if (cfg.ruleAction == 'BLOCK') {
+                    form.insertBefore(createHiddenInput('submitmethod', 'button'), terms);
+                    submitButton = document.createElement('button');
+                    submitButton.id = 'redirectButton';
+                    submitButton.onclick = formSubmit;
+                    submitButton.innerText =  'Go Back';
+                    form.insertBefore(submitButton, terms);
+                }
+            }
+
+            function decorateErrors(errors, highlightEmptyFields) {
+                var hasErrors = false;
+                Array.prototype.forEach.call(form.elements, function(element, i) {
+                    var hasValue, hasError;
+                    if (element.nodeName == "INPUT" && element.type == "text") {
+                        hasValue = element.value && !!element.value.length;
+                        hasError = errors[element.name];
+                        if (hasError && (hasValue || highlightEmptyFields)) {
+                            addClass(element.parentNode, 'invalid');
+                            hasErrors = true;
+                        } else {
+                            removeClass(element.parentNode, 'invalid');
+                        }
+                    }
+                });
+                return hasErrors;
+            }
+
+            function localValidate(fields, then) {
+
+                function polyfills() {
+                    if (!String.prototype.startsWith) {
+                        String.prototype.startsWith = function(search, pos) {
+                            return this.substr(!pos || pos < 0 ? 0 : +pos, search.length) === search;
+                        };
+                    }
+                    if (!String.prototype.endsWith) {
+                        String.prototype.endsWith = function(search, this_len) {
+                            if (this_len === undefined || this_len > this.length) {
+                                this_len = this.length;
+                            }
+                            return this.substring(this_len - search.length, this_len) === search;
+                        };
+                    }
+                }
+
+                var inputs = { },
+                        result = { errors: { } };
+                if (cfg.requireInput) {
+                    cfg.inputFields.forEach(function(input, i) {
+                        var name = varMap[input.variable],
+                                regex = input.regexExpr;
+                        if (!regex) {
+                            return;
+                        }
+                        polyfills();
+                        if (!regex.startsWith("^")) {
+                            regex = "^" + regex;
+                        }
+                        if (!regex.endsWith("$")) {
+                            regex = regex + "$";
+                        }
+                        if (!new RegExp(regex).test(fields.inputs[name])) {
+                            result.errors[name] = true;
+                        }
+                    });
+                }
+                then.call(form, result);
+            }
+
+
+            function remoteValidate(fields, then) {
+                var xhr = new XMLHttpRequest();
+                xhr.open('POST', '/interstitial/validate.json');
+                xhr.setRequestHeader("Content-Type", "application/json;charset=UTF-8");
+                xhr.setRequestHeader("Is-Ajax-Request", true);
+                xhr.addEventListener("load", function (e) {
+                    if (xhr.status == 200) {
+                        var result = JSON.parse(xhr.response);
+                        then.call(form, result);
+                    }
+                });
+                xhr.send(JSON.stringify(fields));
+            }
+
+
+
+
+            function validate(callback, highlightEmptyFields) {
+                var reponse,
+                        request = {
+                            id: cfg.id,
+                            inputs: [ ]
+                        };
+
+                if (cfg.requireInput) {
+                    Array.prototype.forEach.call(form.elements, function(element, i) {
+                        if (element.nodeName == "INPUT" && element.type == "text") {
+                            request.inputs[element.name] = element.value;
+                        }
+                    });
+
+                    localValidate(request, function(result) {
+                        var hasErrors = decorateErrors(result.errors, highlightEmptyFields);
+                        if (callback) {
+                            callback.call(form, hasErrors);
+                        }
+                    });
+                } else {
+                    if (callback) {
+                        callback.call(form, false);
+                    }
+                }
+            }
+
+            function skipInput() {
+                doSubmit("skip");
+            }
+
+            function fallback() {
+                doSubmit("fallback");
+            }
+
+            function endCountdown() {
+                doSubmit("timer");
+            }
+
+            function formSubmit() {
+                if (cfg.ruleAction == 'BLOCK') {
+                    window.history.back();
+                    return false;
+                }
+                validate(function(hasErrors) {
+                    if (!hasErrors) {
+                        if(document.location.search) {
+                            form.action = document.location.href.substring(0, document.location.href.length - document.location.search.length);
+                        }
+                        doSubmit("button");
+                    }
+                }, true);
+                return false;
+            }
+
+            function doSubmit(method) {
+                if (submitted) {
+                    return;
+                }
+                submitted = true;
+                document.getElementById('submitmethod').value = method;
+                form.submit();
+            }
+
+            function validateFields() {
+                validate(null, false);
+            }
+
+            buildForm();
+
+    })();
+    
+</script>
+</body>
+</html>

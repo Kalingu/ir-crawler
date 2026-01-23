@@ -15,3 +15,4 @@ All the downloaded pages are stored in the `CrawledPages` folder:
 ## Note
 
 This repo contains only the crawled pages to share the results. Other project files have been removed for clarity.
+

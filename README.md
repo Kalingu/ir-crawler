@@ -1,79 +1,73 @@
-IR Crawler – Information Retrieval Project
+# IR Crawler – Information Retrieval Project
 
 This project implements a web crawler and information retrieval (IR) pipeline that collects web pages from a domain, builds an inverted index, and allows fast keyword-based retrieval of relevant pages.
 
-Role: Contributor – implemented web crawling, text parsing, and inverted index construction.
+**Role:** Contributor – implemented web crawling, text parsing, and inverted index construction.
 
-Problem Statement
+---
+
+## Problem Statement
 
 Information retrieval is essential for search engines, QA systems, and NLP pipelines. Manually indexing web pages is time-consuming and error-prone, so this project automates the workflow:
 
-Crawl web pages starting from a seed URL
-
-Extract textual content from raw HTML
-
-Build an inverted index for keyword-based search
+- Crawl web pages starting from a seed URL
+- Extract textual content from raw HTML
+- Build an inverted index for keyword-based search
 
 This allows users to quickly find relevant pages for a query without scanning all raw HTML files.
 
-Project Overview
-Web Crawling
+---
 
-Starts from a seed page provided by the user
+## Project Overview
 
-Follows internal links to collect multiple pages within the same domain
+### Web Crawling
 
-Downloads collected pages to the CrawledPages/ folder
+- Starts from a seed page provided by the user
+- Follows internal links to collect multiple pages within the same domain
+- Downloads collected pages to the `CrawledPages/` folder
 
-Comment: In the GitHub repo, these pages are saved as .txt files for convenience. In the real project, the original pages are HTML.
+**Comment:** In the GitHub repo, these pages are saved as `.txt` files for convenience. In the real project, the original pages are HTML.
 
-Text Extraction & Preprocessing
+### Text Extraction & Preprocessing
 
-Strips HTML tags
+- Strips HTML tags
+- Cleans text: removes punctuation, converts to lowercase, and optionally tokenizes
 
-Cleans text: removes punctuation, converts to lowercase, and optionally tokenizes
+**Comment:** This ensures that the inverted index contains clean, searchable text only.
 
-Comment: This ensures that the inverted index contains clean, searchable text only.
+### Inverted Index Construction
 
-Inverted Index Construction
+- Builds a JSON-based inverted index (`inverted_index.json`)
+- Maps each keyword to a list of page IDs where it appears
+- Supports efficient keyword-based lookup
 
-Builds a JSON-based inverted index (inverted_index.json)
+### Search / Query (Optional)
 
-Maps each keyword to a list of page IDs where it appears
+- Allows users to query keywords against the inverted index
+- Returns relevant pages or snippets
 
-Supports efficient keyword-based lookup
+**Comment:** Useful for quick retrieval without scanning all page files.
 
-Search / Query (Optional)
+---
 
-Allows users to query keywords against the inverted index
+## Dataset / Crawled Pages
 
-Returns relevant pages or snippets
+- All downloaded pages are stored in the `CrawledPages` folder  
+  Example: `CrawledPages/page1.txt`, `page2.txt`, etc.  
+- Number of pages collected: 500  
+- Inverted index file: `inverted_index.json`  
 
-Comment: Useful for quick retrieval without scanning all page files.
+**Comment:** The GitHub version contains only a subset of the full index for easier sharing.
 
-Dataset / Crawled Pages
+---
 
-All downloaded pages are stored in the CrawledPages folder
+## Tech Stack
 
-Example: CrawledPages/page1.txt, page2.txt, etc.
+- **Python:** Core programming language  
+- **Web Crawling:** `requests`, `BeautifulSoup`  
+- **Text Processing:** `re`, `nltk` / `spaCy` (optional for tokenization)  
+- **Data Storage:** JSON (inverted index)
 
-Number of pages collected: 500
-
-Inverted index file: inverted_index.json
-
-Comment: The GitHub version contains only a subset of the full index for easier sharing.
-
-Tech Stack
-
-Python: Core programming language
-
-Web Crawling: requests, BeautifulSoup
-
-Text Processing: re, nltk / spaCy (optional for tokenization)
-
-Data Storage: JSON (inverted index)
-
-Optional Visualization / Search: Jupyter Notebook
 ---
 
 ## Installation & Usage

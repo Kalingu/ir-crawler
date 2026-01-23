@@ -44,7 +44,7 @@ This helps in quickly finding relevant pages for a given query without scanning 
 
 - All downloaded pages are stored in the `CrawledPages` folder:  
   [Browse CrawledPages](https://github.com/Kalingu/ir-crawler/tree/main/CrawledPages)  
-- Example: `CrawledPages/page1.html`, `page2.html`, etc.  (in there project adding as txt file)
+- Example: `CrawledPages/page1.html`, `page2.html`, etc.  (in this github project adding as txt file)
 - Number of pages collected: 500  
 - Inverted index file: `inverted_index.json` (in there only applying first few index in the jason file)
 
@@ -66,3 +66,21 @@ Step 1: Clone the repository
 ```bash
 git clone https://github.com/Kalingu/ir-crawler.git
 cd ir-crawler
+```
+Step 2: Clone the repository
+```bash
+pip install -r requirements.txt  
+```
+Step 3: Explore crawled pages
+```bash
+start CrawledPages\page1.txt
+```
+Step 4: Load and explore the inverted index
+```bash
+import json
+
+with open("inverted_index.json", "r") as f:
+    index = json.load(f)
+
+# Example: print all pages containing the keyword "python"
+print(index.get("python", []))
